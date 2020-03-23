@@ -1,0 +1,416 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\n당신이 원하는 대신 로컬 저장소를 검색합니까?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "A resource cannot be created at the destination URI until one or more intermediate collections are created.";
+
+"Access denied!" = "액세스가 거부되었습니다!";
+
+"Actions" = "행위";
+
+"Are you sure you want to delete this resource?" = "당신이이 파일을 삭제하시겠습니까?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "당신은이 서버를 삭제하시겠습니까?\n모든 다운로드 파일은 삭제됩니다.";
+
+"Are you sure you want to download this resource?" = "당신이이 파일을 다운로드 하시겠습니까?";
+
+"Are you sure you want to overwrite your local copy?" = "당신은 당신의 로컬 복사본을 덮어 쓰시겠습니까?";
+
+"Browse Favourites" = "로컬 저장소";
+
+"bytes" = "bytes";
+
+"Cancel" = "취소";
+
+"Confirmation" = "확인";
+
+"Connection started...." = "연결이 시작 ....";
+
+"Copy" = "복사";
+
+"Create" = "만들기";
+
+"Delete" = "삭제";
+
+"Download" = "다운로드";
+
+"Downloading file. Please Wait\n\n\n" = "다운로드 파일입니다. 기다려주십시오\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "이메일 보내기";
+
+"Enter a name for the uploaded resource:" = "업로드된 리소스에 대한 이름을 입력하십시오 :";
+
+"Enter new folder name:" = "새 폴더 이름을 입력하십시오 :";
+
+"Enter new name for the duplicate resource:" = "이 리소스를 중복에 대한 새 이름 입력 :";
+
+"Enter new name:" = "새 이름을 입력 :";
+
+"Error" = "오류";
+
+"Finished!" = "완료!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "서버를 수정";
+
+"No" = "없음";
+
+"No authentication" = "인증";
+
+"Not enough storage to create folder!" = "충분하지 않은 폴더를 만들고 저장 공간!";
+
+"OK" = "확인";
+
+"Open with..." = "열기 ...";
+
+"Overwrite" = "덮어쓰기";
+
+"PB" = "PB";
+
+"Play" = "놀이";
+
+"Rename" = "이름 바꾸기";
+
+"Response received, downloading file..." = "응답 파일을 다운받은 ...";
+
+"Sorry, no installed applications seem to support this file type" = "아니 설치된 응용 프로그램이 파일 형식을 지원하는 것";
+
+"Source moved to new location" = "소스는 새 위치로 이동";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "대상 리소스가 충분한 저장 공간을 가지고 있지 않습니다.";
+
+"The destination resource is locked." = "대상 리소스가 잠겨 있습니다.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "The destination URI is located on a different server, which refuses to accept the resource.";
+
+"The folder already exists!" = "폴더가 이미 존재합니다!";
+
+"The folder cannot be created until the parent folders are created!" = "상위 폴더가 생성되기 전까지는 폴더를 만들 수 없습니다!";
+
+"The resource is locked!" = "리소스가 고정되었습니다!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "리소스가 이미 존재하는 대상 URI로 이동되었습니다.";
+
+"The resource was successfully copied." = "파일이 성공적으로 복사되었습니다.";
+
+"The server does not allow collections to be created at the specified location!" = "서버는 폴더가 지정된 위치에 만들 어질 수 없습니다!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "원본 리소스가 성공적으로 기존의 대상 리소스에 복사되었습니다.";
+
+"The source URI and the destination URI are the same." = "소스와 대상이 동일합니다.";
+
+"Unable to open" = "열 수 없습니다";
+
+"Upload" = "업로드";
+
+"Username: %@" = "사용자 이름: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "예";
+
+"You need to enter a URL for the WebDAV server!" = "당신은 WebDAV 서버에 대한 URL을 입력해야합니다!";
+
+"Your file has failed to be copied into the local store!" = "파일이 로컬 저장소에 복사하는 데 실패했습니다!";
+
+"Your file has successfully been copied into the local store!" = "파일이 성공적으로 로컬 저장소에 복사되었습니다!";
+
+"Save" = "저장";
+
+"Name" = "이름";
+
+"Server URL" = "서버 URL";
+
+"Username" = "사용자 이름";
+
+"Password" = "비밀 번호";
+
+"WebDAV Nav Shortcut" = "의 WebDAV 운항 바로가기";
+
+"Email shortcut" = "지름길 이메일";
+
+"Unable to use added server!" = "없습니다 서버를 추가 사용하는!";
+
+"Unable to decode the shortcut!" = "바로 가기를 디코딩할 수 없습니다!";
+
+"Your WebDAV Server address is: %@" = "당신의 WebDAV 서버 주소는: %@";
+
+"You need a wifi connection to run the server." = "당신은 서버를 실행하는 와이파이 연결을해야합니다.";
+
+"WebDAV Server Settings" = "WebDAV 서버 설정";
+
+"Settings" = "설정";
+
+"Server off" = "서버가 꺼져";
+
+"Server address: %@" = "서버 주소: %@";
+
+"Error starting WebDAV Server: %@" = "WebDAV를 서버를 시작 오류: %@";
+
+"Enter a name for the uploaded video:" = "올린 동영상의 이름을 입력하십시오:";
+
+"WebDAV Server" = "WebDAV를 서버";
+
+"Server port" = "서버 포트";
+
+"Server name" = "서버 이름";
+
+"Security" = "보안";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "당신이 녹음을 지우시겠습니까?";
+
+"Enter a name for the audio resource:" = "오디오 파일의 이름을 입력하십시오:";
+
+"Edit file" = "파일 편집";
+
+"Copy to local store" = "로컬 복사 저장";
+
+"Audio Recorder" = "오디오 레코더";
+
+"You need a microphone in order to record audio." = "당신은 순서 오디오를 녹음하려면 마이크가 필요합니다.";
+
+"Text Editor" = "텍스트 편집기";
+
+"You have unsaved changes, do you want to save them?" = "당신은 저장되지 않은 변경 사항이 어떻게 당신이 그들을 저장하시겠습니까?";
+
+"Close" = "가까운";
+
+"Enter your new PIN" = "새 PIN을 입력";
+
+"Enter your PIN" = "귀하의 PIN을 입력하십시오";
+
+"Set PIN" = "PIN을 설정합니다";
+
+"Confirm PIN" = "비밀 번호 확인";
+
+"Protected" = "보호된";
+
+"PIN did not match. Try again." = "비밀 번호가 일치하지 않았다. 다시 시도하십시오.";
+
+"PIN incorrect. Try again." = "PIN이 잘못되었습니다. 다시 시도하십시오.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "경고! 잃어버린 PIN을,주의해서 사용 복구할 수있는 방법은 없습니다.";
+
+"Please enter the authentication details:" = "인증 세부 정보를 입력하십시오:";
+
+"View" = "보기";
+
+"General" = "일반";
+
+"Single tap action" = "단일 탭 작업";
+
+"Default action" = "기본 동작";
+
+"Unlink" = "연결을 해제 파일";
+
+"Are you sure you want to unlink this resource?" = "당신이이 파일의 연결을 해제 하시겠습니까?";
+
+"Server Discover" = "디스 커버 서버";
+
+"Slide show" = "포토 갤러리";
+
+"Show hidden files" = "숨김 파일";
+
+"Shared download folder" = "일반적인 스토리지";
+
+"Move" = "이동";
+
+"Default audio format" = "기본 오디오 형식";
+
+"Compress" = "압박 붕대";
+
+"Extract" = "확장";
+
+"Unable to compress file, the zip file already exists at destination!" = "파일을 압축할 수 없습니다, ​​zip 파일이 이미 목적지에 존재합니다!";
+
+"Folder index mode" = "폴더 인덱스 모드";
+
+"File index mode" = "파일 인덱스 모드";
+
+"Tap here to select the current folder" = "현재 폴더를 선택하려면 여기를 누르세요";
+
+"Tap to view multiple file options" = "여러 개의 파일 옵션을 보려면 누르세요";
+
+"Delete marked files" = "삭제";
+
+"Email marked files" = "이메일 보내기";
+
+"Unselect all" = "취소";
+
+"This folder" = "이 폴더는";
+
+"Stop" = "그만";
+
+"Please enter the passphrase for the certificate:" = "인증서에 대한 열쇠 글을 입력하십시오 :";
+
+"Certificate missing" = "누락 증명서";
+
+"Import photos" = "가져오기 사진";
+
+"Select all" = "모든 파일을 선택";
+
+"Press \"+\" to add a new server connection" = "보도는 \"+\"새 서버 연결을 추가하는";
+
+"Trust all SSL certificates" = "모든 SSL 인증서를 신뢰";
+
+"Import media files" = "미디어 파일 가져오기";
+
+"Properties" = "속성";
+
+"Information" = "안내";
+
+"Are you sure you want to download this folder?" = "당신은이 폴더를 다운로드 하시겠습니까?";
+
+"Unable to print this item!" = "이 항목을 인쇄할 수 없습니다!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "어떤 이미지는 표시를 찾을 수 없습니다!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "북마크";
+
+"Uploading file. Please Wait\n\n\n" = "업로드 파일. 기다려주십시오\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "당신이이 파일을 다운로드 하시겠습니까?";
+
+"Are you sure you want to delete the marked files?" = "당신이이 파일을 삭제하시겠습니까?";
+
+"Deleting files. Please Wait\n\n\n" = "파일 삭제. 기다려주십시오\n\n\n";
+
+"Unable to find images to import!" = "가져올 이미지를 찾을 수 없습니다!";
+
+"Current" = "현재 폴더";
+
+"Enter a prefix for these items:" = "이러한 항목에 대한 접두어를 입력 :";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "PDF의 암호를 입력 :";
+
+"Copy to clipboard" = "클립 보드에 파일을 복사";
+
+"Select sort option" = "정렬 옵션을 선택하십시오";
+
+"Sort by filename" = "파일 이름으로 정렬";
+
+"Sort by date" = "날짜순 정렬";
+
+"Sort by filesize" = "파일 크기로 정렬";
+
+"Accept connections" = "연결을 수락";
+
+"Use Photos app filename (if available) during upload" = "업로드 중 Photos.app 파일 이름을 (해당되는 경우)를 사용";
+
+"Allow delete" = "파일 삭제 허용";
+
+"An unknown error occurred!" = "알 수없는 오류가 발생했습니다!";
+
+"Are you sure you want to delete this sync?" = "당신이이 항목을 삭제하시겠습니까?";
+
+"Are you sure you want to import these files into the Photos app?" = "당신은 Photos.app에 이러한 파일을 가져올시겠습니까?";
+
+"Are you sure you want to overwrite this file?" = "당신이이 파일을 덮어 쓰시겠습니까?";
+
+"Are you sure you want to reset the sync cache?" = "당신은 캐시를 지우시겠습니까?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "당신은 동기화 하시겠습니까, 변경 사항은 파일을 교체하고 삭제할 수 있을까?";
+
+"Browse local storage" = "로컬 저장소 찾아보기";
+
+"Cancel sync settings" = "동기화 설정을 취소";
+
+"Changed files" = "변경된 파일";
+
+"Changed local files" = "변경된 로컬 파일";
+
+"Changed server files" = "수정된 서버 파일";
+
+"Conflicts" = "갈등 변경";
+
+"Date format" = "날짜 형식";
+
+"Deleted files" = "삭제된 파일";
+
+"Deleted local files" = "삭제된 로컬 파일";
+
+"Deleted server files" = "삭제된 서버 파일";
+
+"New files" = "새 파일";
+
+"New local files" = "새 로컬 파일";
+
+"New server files" = "새로운 서버의 파일";
+
+"No changes found to sync!" = "동기화하는 것으로 변경 사항이 없습니다!";
+
+"No devices found!" = "어떤 장치가 없습니다!";
+
+"No files found!" = "어떤 파일을 찾을 수 없습니다!";
+
+"Peer is busy!" = "피어 사용량이 많습니다!";
+
+"Permission denied!" = "허가 거부됨!";
+
+"Playlist" = "Playlist";
+
+"Press \"+\" to add a new sync configuration" = "새 동기화 구성을 추가하려면 \"+\"를 눌러";
+
+"Save sync settings" = "동기화 설정 저장";
+
+"Select local folder" = "로컬 폴더를 선택";
+
+"Select remote folder" = "원격 폴더를 선택";
+
+"Sort files" = "정렬 파일";
+
+"Sync Details" = "Sync Details";
+
+"Sync Now" = "지금 동기화";
+
+"Sync Preview" = "시사하다";
+
+"Sync" = "Sync";
+
+"The destination file already exists!" = "대상 파일이 이미 존재합니다!";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "동기화 기능은 잠재적으로 삭제하고 파일을 변경할 수 있습니다. 당신의 파일의 적당한 백업을 확인합니다. 당신이 동기화를 활성화 하시겠습니까?";
+
+"Unknown error occurred!" = "알 수없는 오류가 발생했습니다!";
+
+"Upload camera image" = "Upload camera image";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "당신이 동기화하려는 변경 내용을 선택하지 않으 셨습니다. 동기화하기 전에 변경 내용을 선택하십시오";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "귀하의 서버가 동기화 기능을 사용하는 데 필요한 기능을 지원하지 않는 것 같습니다.하나의 폴더 옵션을 활성화하십시오.";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

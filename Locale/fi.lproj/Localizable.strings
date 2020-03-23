@@ -1,0 +1,374 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nHaluatko selata paikallisen tallennuksen sijaan?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "A resource cannot be created at the destination URI until one or more intermediate collections are created.";
+
+"Access denied!" = "Pääsy kielletty!";
+
+"Actions" = "Toimet";
+
+"Are you sure you want to delete this resource?" = "Oletko varma että haluat poistaa tämän tiedoston?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Oletko varma että haluat poistaa tämän palvelimen?\nKaikki ladatut tiedostot poistetaan.";
+
+"Are you sure you want to download this resource?" = "Oletko varma että haluat ladata tiedoston?";
+
+"Are you sure you want to overwrite your local copy?" = "Oletko varma, että haluat korvata paikallisen kopion?";
+
+"Browse Favourites" = "Paikalliset varastointi";
+
+"bytes" = "bytes";
+
+"Cancel" = "Kumoa";
+
+"Confirmation" = "Vahvistus";
+
+"Connection started...." = "Yhteys alkoi ....";
+
+"Copy" = "Kopioi";
+
+"Create" = "Luoda";
+
+"Delete" = "Poista";
+
+"Download" = "Lataa";
+
+"Downloading file. Please Wait\n\n\n" = "Tiedoston lataaminen. Odota\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "Sähköposti";
+
+"Enter a name for the uploaded resource:" = "Anna nimi ladattu resurssien:";
+
+"Enter new folder name:" = "Kirjoita uuden kansion nimi:";
+
+"Enter new name for the duplicate resource:" = "Anna uusi nimi kahtena resurssien:";
+
+"Enter new name:" = "Anna uusi nimi:";
+
+"Error" = "Virhe";
+
+"Finished!" = "Päättynyt!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Muokkaa palvelinta";
+
+"No" = "No";
+
+"No authentication" = "Ei todennusta";
+
+"Not enough storage to create folder!" = "Ei tarpeeksi tallennustilaa luoda kansiota!";
+
+"OK" = "OK";
+
+"Open with..." = "Avaa ...";
+
+"Overwrite" = "Korvaa";
+
+"PB" = "PB";
+
+"Play" = "Pelaa";
+
+"Rename" = "Nimetä uudelleen";
+
+"Response received, downloading file..." = "Response sai ladata tiedoston ...";
+
+"Sorry, no installed applications seem to support this file type" = "Ei asennetut sovellukset näyttävät tukevan tätä tiedostotyyppiä";
+
+"Source moved to new location" = "Lähde muutti uuteen paikkaan";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "määränpää resurssi ei ole riittävästi säilytystilaa.";
+
+"The destination resource is locked." = "määränpää resurssi on lukittu.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "kohde URI sijaitsee eri palvelimella, joka kieltäytyy hyväksymästä resurssi.";
+
+"The folder already exists!" = "kansio on jo olemassa!";
+
+"The folder cannot be created until the parent folders are created!" = "The folder cannot be created until the parent folders are created!";
+
+"The resource is locked!" = "The resource is locked!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "resurssi siirrettiin onnistuneesti aiemmin kohde URI.";
+
+"The resource was successfully copied." = "resurssi onnistuneesti kopioitu.";
+
+"The server does not allow collections to be created at the specified location!" = "palvelin ei salli kokoelmia luotava ilmoitetussa paikassa!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "lähde resurssi onnistuneesti kopioitu aiemmin määränpää resurssi.";
+
+"The source URI and the destination URI are the same." = "lähde URI ja määränpää URI ovat samat";
+
+"Unable to open" = "Ei voitu avata";
+
+"Upload" = "Lähetä";
+
+"Username: %@" = "Käyttäjätunnus: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Kyllä";
+
+"You need to enter a URL for the WebDAV server!" = "Sinun täytyy syöttää URL WebDAV-palvelimeen!";
+
+"Your file has failed to be copied into the local store!" = "Tiedosto ei ole kopioidaan lähikauppa!";
+
+"Your file has successfully been copied into the local store!" = "Tiedoston on onnistuneesti kopioitu netistä!";
+
+"Save" = "Tallenna";
+
+"Name" = "Nimi";
+
+"Server URL" = "Palvelimen URL";
+
+"Username" = "Käyttäjätunnus";
+
+"Password" = "Salasana";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Oikotie";
+
+"Email shortcut" = "Lähetä linkki";
+
+"Unable to use added server!" = "Käyttö ei onnistu lisätty palvelin!";
+
+"Unable to decode the shortcut!" = "Ei voida purkaa linkin!";
+
+"Your WebDAV Server address is: %@" = "Sinun WebDAV-palvelimen osoite on: %@";
+
+"You need a wifi connection to run the server." = "Tarvitset wifi yhteys suorittaa palvelimella.";
+
+"WebDAV Server Settings" = "WebDAV-palvelimen asetukset";
+
+"Settings" = "Asetukset";
+
+"Server off" = "Palvelin on pois päältä";
+
+"Server address: %@" = "Palvelimen osoite: %@";
+
+"Error starting WebDAV Server: %@" = "Virhe käynnistettäessä WebDAV-palvelimeen: %@";
+
+"Enter a name for the uploaded video:" = "Anna nimi ladannut videon:";
+
+"WebDAV Server" = "WebDAV-palvelimeen";
+
+"Server port" = "Palvelimen portti";
+
+"Server name" = "Palvelimen nimi";
+
+"Security" = "Turvallisuus";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Jos jatkat saat poistaa edellisen tallennuksen?";
+
+"Enter a name for the audio resource:" = "Anna nimi audio resurssien:";
+
+"Edit file" = "Muokkaa tiedostoa";
+
+"Copy to local store" = "Kopioi paikallisesti";
+
+"Audio Recorder" = "Audio Recorder";
+
+"You need a microphone in order to record audio." = "Tarvitset mikrofonin voidakseen äänittää.";
+
+"Text Editor" = "Tekstieditori";
+
+"You have unsaved changes, do you want to save them?" = "Muutoksia ei ole tallennettu, haluatko tallentaa ne?";
+
+"Close" = "Sulje";
+
+"Enter your new PIN" = "Anna uusi PIN";
+
+"Enter your PIN" = "Syötä PIN";
+
+"Set PIN" = "Aseta PIN";
+
+"Confirm PIN" = "Vahvista PIN";
+
+"Protected" = "Suojattu";
+
+"PIN did not match. Try again." = "PIN eivät täsmänneet. Yritä uudelleen.";
+
+"PIN incorrect. Try again." = "PIN virheellinen. Yritä uudelleen.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "VAROITUS! Ei ole mitään keinoa palauttaa menetetty PIN käyttää varoen.";
+
+"Please enter the authentication details:" = "Anna autentikointi tiedot:";
+
+"View" = "Näytä";
+
+"General" = "Yleinen";
+
+"Single tap action" = "Yhden kosketa toiminta";
+
+"Default action" = "Default action";
+
+"Unlink" = "Poista linkki";
+
+"Are you sure you want to unlink this resource?" = "Oletko varma että haluat poistaa linkityksen tätä resurssia?";
+
+"Server Discover" = "Tutustu Server";
+
+"Slide show" = "Kuvagalleria";
+
+"Show hidden files" = "Piilotetut tiedostot";
+
+"Shared download folder" = "Yhteinen varastointi";
+
+"Move" = "Siirrä";
+
+"Default audio format" = "Default ääniformaatti";
+
+"Compress" = "Puristaa";
+
+"Extract" = "Laajentaa";
+
+"Unable to compress file, the zip file already exists at destination!" = "Onnistu pakata tiedoston, zip-tiedosto on jo olemassa perille!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Napauta tässä valita kansion";
+
+"Tap to view multiple file options" = "Napauta tarkastella useita tiedostotyyppejä vaihtoehtoja";
+
+"Delete marked files" = "Poistaa";
+
+"Email marked files" = "Sähköposti";
+
+"Unselect all" = "Poista valinta";
+
+"This folder" = "Tämä kansio";
+
+"Stop" = "Stop";
+
+"Please enter the passphrase for the certificate:" = "Anna tunnuslause todistus:";
+
+"Certificate missing" = "Todistus puuttuu";
+
+"Import photos" = "Tuo valokuvia";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Paina \"+\" lisää uusi palvelin yhteys";
+
+"Trust all SSL certificates" = "Luota kaikkiin SSL-varmenteita";
+
+"Import media files" = "Tuo mediatiedostot";
+
+"Properties" = "Ominaisuudet";
+
+"Information" = "Tiedot";
+
+"Are you sure you want to download this folder?" = "Oletko varma että haluat ladata tämän kansion?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Kuvia ei löytynyt näyttämään!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Oletko varma, että haluat ladata nämä tiedostot?";
+
+"Are you sure you want to delete the marked files?" = "Oletko varma, että haluat poistaa nämä tiedostot?";
+
+"Deleting files. Please Wait\n\n\n" = "Tiedostojen. odota\n\n\n";
+
+"Unable to find images to import!" = "Ei löydy kuvia tuoda!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Kirjoita etuliite nämä kohteet:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Anna salasana PDF:";
+
+"Copy to clipboard" = "Kopioi tiedosto leikepöydälle";
+
+"Sort by filename" = "Lajittele tiedostojen nimet";
+
+"Sort by date" = "Lajittele päivämäärän mukaan";
+
+"Sort by filesize" = "Lajitteluperuste tiedostokoon";
+
+"Accept connections" = "Hyväksy yhteydet";
+
+"Use Photos app filename (if available) during upload" = "Käytä Photos.app tiedostonimi (jos käytettävissä) aikana upload";
+
+"Allow delete" = "Salli tiedostojen poistamisesta";
+
+"An unknown error occurred!" = "Tuntematon virhe!";
+
+"Are you sure you want to delete this sync?" = "Oletko varma että haluat poistaa tämän merkinnän?";
+
+"Are you sure you want to reset the sync cache?" = "Oletko varma että haluat tyhjentää välimuistin?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Oletko varma että haluat synkronoida muutokset voisivat korvata ja poistaa tiedostoja?";
+
+"Browse local storage" = "Etsi paikallinen varastointi";
+
+"Changed files" = "Muuttuneet tiedostot";
+
+"Changed local files" = "Muuttunut paikallisia tiedostoja";
+
+"Changed server files" = "Muokattu palvelimen tiedostot";
+
+"Date format" = "Päivämäärän muoto";
+
+"Deleted files" = "Poistetut tiedostot";
+
+"Deleted local files" = "Poistetut paikallisia tiedostoja";
+
+"Deleted server files" = "Poistetut palvelimen tiedostot";
+
+"New files" = "Uudet tiedostot";
+
+"New local files" = "Uusi paikallisia tiedostoja";
+
+"New server files" = "Uusi palvelin-tiedostot";
+
+"No changes found to sync!" = "Ei muutoksia havaittu synkronoida!";
+
+"Playlist" = "Playlist";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

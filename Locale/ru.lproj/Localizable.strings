@@ -1,0 +1,383 @@
+
+"%@\nDo you want to browse the local store instead?" = "%@\nВы хотите, чтобы просмотреть местном магазине вместо этого?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "ресурс не может быть создан в пункт назначения URI до одного или нескольких промежуточных коллекции создаются.";
+
+"Access denied!" = "Доступ запрещен!";
+
+"Actions" = "Действия";
+
+"Are you sure you want to delete this resource?" = "Вы уверены, что хотите удалить этот файл?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Вы уверены, что хотите удалить этот сервер?\nВсе загруженные файлы будут стерты.";
+
+"Are you sure you want to download this resource?" = "Вы уверены, что вы хотите скачать этот файл?";
+
+"Are you sure you want to overwrite your local copy?" = "ы уверены, что хотите перезаписать на локальном компьютере?";
+
+"Browse Favourites" = "Локальное хранилище";
+
+"bytes" = "bytes";
+
+"Cancel" = "Отменить";
+
+"Confirmation" = "Подтверждение";
+
+"Connection started...." = "Подключение началось ....";
+
+"Copy" = "Копировать";
+
+"Create" = "Создать";
+
+"Delete" = "Удалить";
+
+"Download" = "Скачать";
+
+"Downloading file. Please Wait\n\n\n" = "Загрузка файла. Пожалуйста, подождите\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "Email";
+
+"Enter a name for the uploaded resource:" = "Введите имя для загружаемого файла:";
+
+"Enter new folder name:" = "Введите имя новой папки:";
+
+"Enter new name for the duplicate resource:" = "Введите новое имя для дублировать ресурсов:";
+
+"Enter new name:" = "Введите новое имя:";
+
+"Error" = "Ошибка";
+
+"Finished!" = "Завершенный!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Изменить Server";
+
+"No" = "Нет";
+
+"No authentication" = "Проверка подлинности не";
+
+"Not enough storage to create folder!" = "Недостаточно памяти, чтобы создать папку!";
+
+"OK" = "OK";
+
+"Open with..." = "Открыть с помощью ...";
+
+"Overwrite" = "Переписывать";
+
+"PB" = "PB";
+
+"Play" = "Слушать";
+
+"Rename" = "Переименовать";
+
+"Response received, downloading file..." = "Ответ получен, загрузки файлов ...";
+
+"Sorry, no installed applications seem to support this file type" = "К сожалению, нет установленных приложений, кажется, поддержка данного типа файлов";
+
+"Source moved to new location" = "Источник переехал на новое место";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "назначения ресурсов не имеет достаточно места для хранения.";
+
+"The destination resource is locked." = "назначения ресурс заблокирован.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "URI назначения расположен на другом сервере, который отказывается принять ресурсов.";
+
+"The folder already exists!" = "Папка уже существует!";
+
+"The folder cannot be created until the parent folders are created!" = "Папка не может быть создано до родителей папки создаются!";
+
+"The resource is locked!" = "ресурс заблокирован!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "ресурсов была переименована в уже существующие назначения URI.";
+
+"The resource was successfully copied." = "ресурс был успешно скопирован.";
+
+"The server does not allow collections to be created at the specified location!" = "Сервер не позволяет коллекции будет создан в указанном месте!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "источник ресурсов был успешно скопированы на уже существующие назначения ресурсов.";
+
+"The source URI and the destination URI are the same." = "Источник URI и URI назначения те же.";
+
+"Unable to open" = "Невозможно открыть";
+
+"Upload" = "Загрузить";
+
+"Username: %@" = "Имя пользователя: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Да";
+
+"You need to enter a URL for the WebDAV server!" = "Вам необходимо ввести URL-адрес для сервера WebDAV!";
+
+"Your file has failed to be copied into the local store!" = "Ваш файл не удалось быть скопированы в местном магазине!";
+
+"Your file has successfully been copied into the local store!" = "Ваш файл был успешно скопирован в местном магазине!";
+
+"Save" = "Сохранить";
+
+"Name" = "Название";
+
+"Server URL" = "Адрес";
+
+"Username" = "Имя пользователя";
+
+"Password" = "Пароль";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Ярлык";
+
+"Email shortcut" = "Отправить контекстном";
+
+"Unable to use added server!" = "Невозможно использовать добавил сервер!";
+
+"Unable to decode the shortcut!" = "Не удалось расшифровать ярлык!";
+
+"Your WebDAV Server address is: %@" = "Ваш WebDAV Server адрес: %@";
+
+"You need a wifi connection to run the server." = "Вы должны WiFi соединение для запуска сервера.";
+
+"WebDAV Server Settings" = "Настройка WebDAV Server";
+
+"Settings" = "Настройки";
+
+"Server off" = "Сервер выключен";
+
+"Server address: %@" = "Адрес сервера: %@";
+
+"Error starting WebDAV Server: %@" = "Ошибка при запуске сервера WebDAV: %@";
+
+"Enter a name for the uploaded video:" = "Введите имя для загруженного видео:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Порт сервера";
+
+"Server name" = "Имя сервера";
+
+"Security" = "Безопасность";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Если вы продолжите вы стереть предыдущую запись?";
+
+"Enter a name for the audio resource:" = "Введите имя для аудио ресурсов:";
+
+"Edit file" = "Редактировать файл";
+
+"Copy to local store" = "Копировать в локальный Хранение";
+
+"Audio Recorder" = "Audio Recorder";
+
+"You need a microphone in order to record audio." = "Вы должны микрофон для записи звука.";
+
+"Text Editor" = "Текст Редактор";
+
+"You have unsaved changes, do you want to save them?" = "Вы сделали какие-нибудь изменения, вы хотите сохранить их?";
+
+"Close" = "Закрыть";
+
+"Enter your new PIN" = "Введите новый PIN-код";
+
+"Enter your PIN" = "Введите PIN-код";
+
+"Set PIN" = "Установить PIN";
+
+"Confirm PIN" = "Подтвердите PIN";
+
+"Protected" = "Охраняемых";
+
+"PIN did not match. Try again." = "PIN-код не совпадают. Попробуйте еще раз.";
+
+"PIN incorrect. Try again." = "PIN неправильный. Попробуйте еще раз.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "ВНИМАНИЕ! Существует не способ восстановить потерянные PIN-код, использовать с осторожностью.";
+
+"Please enter the authentication details:" = "Пожалуйста, введите данные для проверки подлинности:";
+
+"View" = "Открыть";
+
+"General" = "Генеральная";
+
+"Single tap action" = "Одного действия крана";
+
+"Default action" = "Действие по умолчанию";
+
+"Unlink" = "Разорвать связь";
+
+"Are you sure you want to unlink this resource?" = "Вы уверены, что вы хотите, чтобы отделить этот ресурс?";
+
+"Server Discover" = "Новая Server";
+
+"Slide show" = "Фотогалерея";
+
+"Show hidden files" = "Скрытые файлы";
+
+"Shared download folder" = "Общие хранения";
+
+"Move" = "Двигаться";
+
+"Default audio format" = "По умолчанию формат аудио";
+
+"Compress" = "Сжимать";
+
+"Extract" = "Развернуть";
+
+"Unable to compress file, the zip file already exists at destination!" = "Не удалось сжать файл ZIP файл уже существует в месте назначения!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Нажмите здесь, чтобы выбрать текущую папку";
+
+"Tap to view multiple file options" = "Нажмите для просмотра нескольких вариантов файла";
+
+"Delete marked files" = "Удалить";
+
+"Email marked files" = "Электронная почта";
+
+"Unselect all" = "Отменить";
+
+"This folder" = "В этой папке";
+
+"Stop" = "Остановить";
+
+"Please enter the passphrase for the certificate:" = "Пожалуйста, введите пароль для сертификата:";
+
+"Certificate missing" = "Сертификат отсутствует";
+
+"Import photos" = "Импорт фотографий";
+
+"Select all" = "Выделите все файлы";
+
+"Trust all SSL certificates" = "Доверять всем SSL сертификаты";
+
+"Import media files" = "Импорт файлов мультимедиа";
+
+"Properties" = "свойства";
+
+"Information" = "информация";
+
+"Are you sure you want to download this folder?" = "Вы уверены, что хотите скачать эту папку?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Изображения не найдены для отображения!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Вы уверены, что хотите, чтобы скачать эти файлы?";
+
+"Are you sure you want to delete the marked files?" = "Вы уверены, что хотите удалить эти файлы?";
+
+"Deleting files. Please Wait\n\n\n" = "Удаление файлов. Пожалуйста, подождите\n\n\n";
+
+"Unable to find images to import!" = "Не удалось найти изображения для импорта!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Введите префикс для этих элементов:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Введите пароль для PDF:";
+
+"Copy to clipboard" = "Копирование файла в буфер обмена";
+
+"File data copied to clipboard" = "Файл был скопирован в буфер обмена";
+
+"Sort by filename" = "Сортировать по имени файла";
+
+"Sort by date" = "Сортировка по дате";
+
+"Sort by filesize" = "Сортировка по размеру файла";
+
+"Accept connections" = "Принять связи";
+
+"Use Photos app filename (if available) during upload" = "Используйте Photos.app файла (если имеется) во время загрузки";
+
+"Allow delete" = "Разрешить удаление файлов";
+
+"An unknown error occurred!" = "Произошла неизвестная ошибка!";
+
+"Are you sure you want to delete this sync?" = "Вы уверены, что хотите удалить эту запись?";
+
+"Are you sure you want to reset the sync cache?" = "Вы уверены, что хотите сбросить кэш?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Вы уверены, что хотите синхронизировать изменения могли бы заменить и удалить файлы?";
+
+"Browse local storage" = "Обзор локальное хранилище";
+
+"Changed files" = "Измененные файлы";
+
+"Changed local files" = "Изменены локальные файлы";
+
+"Changed server files" = "Измененные файлы сервера";
+
+"Conflicts" = "конфликтного изменения";
+
+"Date format" = "формат даты";
+
+"Deleted files" = "Удаленные файлы";
+
+"Deleted local files" = "Удаленные локальные файлы";
+
+"Deleted server files" = "Удаленные файлы сервера";
+
+"New files" = "Новые файлы";
+
+"New local files" = "Новые локальные файлы";
+
+"New server files" = "Новые файлы сервера";
+
+"No changes found to sync!" = "Никаких изменений не обнаружено, синхронизировать!";
+
+"Playlist" = "Playlist";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"Use built-in iOS PDF viewer" = "Используйте встроенный в iOS PDF зрителя";
+
+"Show taps on screen" = "Показать сенсорные позиции на экране";
+
+"Sort method" = "Сортировать метод";
+
+"New Server" = "Новое соединение";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

@@ -1,0 +1,423 @@
+
+"%@\nDo you want to browse the local store instead?" = "%@\n你想浏览本地存储呢";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "一个资源不能创建在目的地的URI，直到一个或多个中间集合创建。";
+
+"Access denied!" = "访问被拒绝！";
+
+"Actions" = "行动";
+
+"Are you sure you want to delete this resource?" = "你确定要删除该资源？";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "你确定要删除此服务器？\n所有下载的文件将被删除。";
+
+"Are you sure you want to download this resource?" = "你确定要下载这个资源？";
+
+"Are you sure you want to overwrite your local copy?" = "您确定要覆盖本地副本？";
+
+"Browse Favourites" = "本地存储";
+
+"bytes" = "字节";
+
+"Cancel" = "取消";
+
+"Confirmation" = "确认";
+
+"Connection started...." = "连接开始的....";
+
+"Copy" = "复制";
+
+"Create" = "创建";
+
+"Delete" = "删除";
+
+"Download" = "下载";
+
+"Downloading file. Please Wait\n\n\n" = "下载文件. 请稍候\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "电邮";
+
+"Enter a name for the uploaded resource:" = "输入上传的资源名称：";
+
+"Enter new folder name:" = "输入新文件夹的名称：";
+
+"Enter new name for the duplicate resource:" = "输入新的名称为重复的资源：";
+
+"Enter new name:" = "输入新的名称：";
+
+"Error" = "错误";
+
+"Finished!" = "成品!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "编辑服务器";
+
+"No" = "无";
+
+"No authentication" = "无验证";
+
+"Not enough storage to create folder!" = "没有足够的存储创建文件夹！";
+
+"OK" = "确定";
+
+"Open with..." = "打开方式...";
+
+"Overwrite" = "覆盖";
+
+"PB" = "PB";
+
+"Play" = "播放";
+
+"Rename" = "重命名";
+
+"Response received, downloading file..." = "收到响应，下载文件...";
+
+"Sorry, no installed applications seem to support this file type" = "对不起，没有安装的应用程序似乎支持此文件类型";
+
+"Source moved to new location" = "来源转移到新的位置";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "目标的资源没有足够的存储空间。";
+
+"The destination resource is locked." = "目标资源被锁定。";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "目标URI是位于不同的服务器，它拒绝接受该资源。";
+
+"The folder already exists!" = "该文件夹已经存在！";
+
+"The folder cannot be created until the parent folders are created!" = "文件夹无法创建父文件夹，直到产生的原因！";
+
+"The resource is locked!" = "资源将被锁定！";
+
+"The resource was moved successfully to a pre-existing destination URI." = "资源是成功地移动到一个预先存在的目的地的URI。";
+
+"The resource was successfully copied." = "资源是成功复制。";
+
+"The server does not allow collections to be created at the specified location!" = "该服务器不允许集合是在指定的位置创建！";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "源资源已成功复制到预先存在的目标资源。";
+
+"The source URI and the destination URI are the same." = "源和目标是相同的。";
+
+"Unable to open" = "无法打开";
+
+"Upload" = "上传";
+
+"Username: %@" = "用户名: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "是的";
+
+"You need to enter a URL for the WebDAV server!" = "您需要输入一个WebDAV服务器的URL！";
+
+"Your file has failed to be copied into the local store!" = "您的文件并没有被纳入本地存储复制！";
+
+"Your file has successfully been copied into the local store!" = "您的文件已经成功复制到本地商店！";
+
+"Save" = "保存";
+
+"Name" = "名称";
+
+"Server URL" = "服务器URL";
+
+"Username" = "用户名";
+
+"Password" = "密码";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav 捷径";
+
+"Email shortcut" = "电子邮件的快捷方式";
+
+"Unable to use added server!" = "无法使用添加的服务器！";
+
+"Unable to decode the shortcut!" = "无法解码的捷径！";
+
+"Your WebDAV Server address is: %@" = "你的WebDAV服务器地址: %@";
+
+"You need a wifi connection to run the server." = "你需要一个WiFi连接来运行服务器。";
+
+"WebDAV Server Settings" = "WebDAV的服务器设置";
+
+"Settings" = "设置";
+
+"Server off" = "服务器关闭";
+
+"Server address: %@" = "服务器地址: %@";
+
+"Error starting WebDAV Server: %@" = "错误启动WebDAV服务器: %@";
+
+"Enter a name for the uploaded video:" = "上传的视频输入一个名称:";
+
+"WebDAV Server" = "WebDAV服务器";
+
+"Server port" = "服务器端口";
+
+"Server name" = "服务器名称";
+
+"Security" = "安全";
+
+"PIN" = "密码";
+
+"PIN lock" = "PIN锁";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "如果你继续你将删除以前的记录？";
+
+"Enter a name for the audio resource:" = "为音频输入资源名称：";
+
+"Edit file" = "编辑文件";
+
+"Copy to local store" = "复制到本地存储";
+
+"Audio Recorder" = "录音机";
+
+"You need a microphone in order to record audio." = "你需要一个麦克风，以便记录音频。";
+
+"Text Editor" = "文本编辑器";
+
+"You have unsaved changes, do you want to save them?" = "您有未保存的更改，你想救他们？";
+
+"Close" = "关闭";
+
+"Enter your new PIN" = "输入您的新密码";
+
+"Enter your PIN" = "输入您的PIN";
+
+"Set PIN" = "设置PIN";
+
+"Confirm PIN" = "确认密码";
+
+"Protected" = "保护";
+
+"PIN did not match. Try again." = "密码不匹配。再试一次。";
+
+"PIN incorrect. Try again." = "密码不正确。再试一次。";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "警告！有没有方法来恢复丢失的密码，谨慎使用。";
+
+"Please enter the authentication details:" = "请输入验证细节：";
+
+"View" = "看";
+
+"General" = "一般";
+
+"Single tap action" = "一按行动";
+
+"Default action" = "默认操作";
+
+"Unlink" = "断开";
+
+"Are you sure you want to unlink this resource?" = "你确定要断开该资源？";
+
+"Server Discover" = "发现服务器";
+
+"Slide show" = "图片库";
+
+"Show hidden files" = "隐藏文件";
+
+"Shared download folder" = "通用存储";
+
+"Move" = "移动";
+
+"Default audio format" = "默认的音频格式";
+
+"Compress" = "压缩";
+
+"Extract" = "展开";
+
+"Unable to compress file, the zip file already exists at destination!" = "无法压缩文件，压缩文件已经存在于目的地！";
+
+"Folder index mode" = "文件夹索引模式";
+
+"File index mode" = "文件索引模式";
+
+"Tap here to select the current folder" = "点选此处选择当前文件夹";
+
+"Tap to view multiple file options" = "点击以查看多个文件选项";
+
+"Delete marked files" = "删除";
+
+"Email marked files" = "电邮";
+
+"Unselect all" = "取消选择";
+
+"This folder" = "此文件夹";
+
+"Stop" = "停止";
+
+"Please enter the passphrase for the certificate:" = "请输入密码的证书：";
+
+"Certificate missing" = "证书遗失";
+
+"Import photos" = "导入照片";
+
+"Select all" = "选择所有文件";
+
+"Press \"+\" to add a new server connection" = "按\“+\”添加新的服务器连接";
+
+"Trust all SSL certificates" = "相信所有的SSL证书";
+
+"Import media files" = "导入媒体文件";
+
+"Properties" = "属性";
+
+"Information" = "信息";
+
+"Are you sure you want to download this folder?" = "你确定你要下载此文件夹吗？";
+
+"Unable to print this item!" = "无法打印这个项目！";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "发现没有图像显示！";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "上传的文件。请稍候\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "你确定你要下载这些文件吗？";
+
+"Are you sure you want to delete the marked files?" = "你确定要删除这些文件吗？";
+
+"Deleting files. Please Wait\n\n\n" = "删除的文件。请稍候\n\n\n";
+
+"Unable to find images to import!" = "我们无法找到要导入的图像！";
+
+"Current" = "当前文件夹";
+
+"Enter a prefix for these items:" = "输入这些项目的前缀：";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "输入密码的PDF：";
+
+"Copy to clipboard" = "将文件复制到剪贴板";
+
+"File data copied to clipboard" = "文件已被复制到剪贴板";
+
+"Select sort option" = "选择排序选项";
+
+"Sort by filename" = "按文件名排序";
+
+"Sort by date" = "按日期排序";
+
+"Sort by filesize" = "按文件大小排序";
+
+"Accept connections" = "接受连接";
+
+"Send to device" = "发送设备";
+
+"Use Photos app filename (if available) during upload" = "上传Photos.app过程中使用的文件名（如果可用）";
+
+"Allow delete" = "允许删除";
+
+"An unknown error occurred!" = "发生未知的错误！";
+
+"Are you sure you want to delete this sync?" = "你确定要删除此项吗？";
+
+"Are you sure you want to import these files into the Photos app?" = "你确定你想这些文件的导入的Photos.app的吗？";
+
+"Are you sure you want to overwrite this file?" = "你确定你要覆盖这个文件吗？";
+
+"Are you sure you want to reset the sync cache?" = "你确定要重置缓存吗？";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "你确定你要同步，可以取代，并删除您的文件？";
+
+"Browse local storage" = "浏览本地存储";
+
+"Cancel sync settings" = "取消同步设置";
+
+"Changed files" = "修改过的文件";
+
+"Changed local files" = "改变本地文件";
+
+"Changed server files" = "修改服务器上的文件";
+
+"Conflicts" = "冲突的变化";
+
+"Date format" = "日期格式";
+
+"Deleted files" = "被删除的文件";
+
+"Deleted local files" = "删除本地文件";
+
+"Deleted server files" = "删除服务器上的文件";
+
+"New files" = "新文件";
+
+"New local files" = "新的本地文件";
+
+"New server files" = "新的服务器上的文件";
+
+"No changes found to sync!" = "发现没有变化同步！";
+
+"No devices found!" = "没有发现设备！";
+
+"No files found!" = "没有找到文件！";
+
+"Peer is busy!" = "同行是忙！";
+
+"Permission denied!" = "权限被拒绝！";
+
+"Playlist" = "Playlist";
+
+"Press \"+\" to add a new sync configuration" = "按“+”添加一个新的同步配置";
+
+"Save sync settings" = "保存同步设置";
+
+"Select local folder" = "选择本地文件夹";
+
+"Select remote folder" = "选择远程文件夹";
+
+"Sort files" = "文件排序";
+
+"Sync Details" = "Sync Details";
+
+"Sync Now" = "立即同步";
+
+"Sync Preview" = "预览";
+
+"Sync" = "Sync";
+
+"The destination file already exists!" = "目标文件已经存在！";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "潜在的同步功能，可以删除和更改文件。确保你有合适的备份文件。你确定要启用同步？";
+
+"Unknown error occurred!" = "发生未知的错误！";
+
+"Upload camera image" = "Upload camera image";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "您还没有选择要同步的变化。请选择，然后再尝试同步的变化。";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "您的服务器不支持使用同步功能所需的功能。尝试使单个文件夹选项。";
+
+"Update" = "更新";
+
+"Browse Local Folders" = "浏览本地文件夹";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

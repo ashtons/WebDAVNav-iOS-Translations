@@ -1,0 +1,1005 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nDo you want to browse the local store instead?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "A resource cannot be created at the destination URI until one or more intermediate collections are created.";
+
+"Access denied!" = "Access denied!";
+
+"Actions" = "Actions";
+
+"Are you sure you want to delete this resource?" = "Are you sure you want to delete this resource?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Are you sure you want to delete this server?\nAll downloaded files will be erased.";
+
+"Are you sure you want to download this resource?" = "Are you sure you want to download this resource?";
+
+"Are you sure you want to overwrite your local copy?" = "Are you sure you want to overwrite your local copy?";
+
+"Browse Favourites" = "Local Storage";
+
+"bytes" = "bytes";
+
+"Cancel" = "Cancel";
+
+"Confirmation" = "Confirmation";
+
+"Connection started...." = "Connection started....";
+
+"Copy" = "Copy";
+
+"Create" = "Create";
+
+"Delete" = "Delete";
+
+"Download" = "Download";
+
+"Downloading file. Please Wait\n\n\n" = "Downloading file. Please Wait\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "Email";
+
+"Enter a name for the uploaded resource:" = "Enter a name for the uploaded resource:";
+
+"Enter new folder name:" = "Enter new folder name:";
+
+"Enter new name for the duplicate resource:" = "Enter new name for the duplicate resource:";
+
+"Enter new name:" = "Enter new name:";
+
+"Error" = "Error";
+
+"Finished!" = "Finished!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Edit Server";
+
+"No" = "No";
+
+"No authentication" = "No authentication";
+
+"Not enough storage to create folder!" = "Not enough storage to create folder!";
+
+"OK" = "OK";
+
+"Open with..." = "Open with...";
+
+"Overwrite" = "Overwrite";
+
+"PB" = "PB";
+
+"Play" = "Play";
+
+"Rename" = "Rename";
+
+"Response received, downloading file..." = "Response received, downloading file...";
+
+"Sorry, no installed applications seem to support this file type" = "Sorry, no installed applications seem to support this file type";
+
+"Source moved to new location" = "Source moved to new location";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "The destination resource does not have sufficient storage space.";
+
+"The destination resource is locked." = "The destination resource is locked.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "The destination URI is located on a different server, which refuses to accept the resource.";
+
+"The folder already exists!" = "The folder already exists!";
+
+"The folder cannot be created until the parent folders are created!" = "The folder cannot be created until the parent folders are created!";
+
+"The resource is locked!" = "The resource is locked!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "The resource was moved successfully to a pre-existing destination URI.";
+
+"The resource was successfully copied." = "The resource was successfully copied.";
+
+"The server does not allow collections to be created at the specified location!" = "The server does not allow collections to be created at the specified location!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "The source resource was successfully copied to a pre-existing destination resource.";
+
+"The source URI and the destination URI are the same." = "The source URI and the destination URI are the same.";
+
+"Unable to open" = "Unable to open";
+
+"Upload" = "Upload";
+
+"Username: %@" = "Username: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Yes";
+
+"You need to enter a URL for the WebDAV server!" = "You need to enter a URL for the WebDAV server!";
+
+"Your file has failed to be copied into the local store!" = "Your file has failed to be copied into the local store!";
+
+"Your file has successfully been copied into the local store!" = "Your file has successfully been copied into the local store!";
+
+"Save" = "Save";
+
+"Name" = "Name";
+
+"Server URL" = "Server URL";
+
+"Username" = "Username";
+
+"Password" = "Password";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Shortcut";
+
+"Email shortcut" = "Email shortcut";
+
+"Unable to use added server!" = "Unable to use added server!";
+
+"Unable to decode the shortcut!" = "Unable to decode the shortcut!";
+
+"Your WebDAV Server address is: %@" = "Your WebDAV Server address is: %@";
+
+"You need a wifi connection to run the server." = "You need a wifi connection to run the server.";
+
+"WebDAV Server Settings" = "WebDAV Server Settings";
+
+"Settings" = "Settings";
+
+"Server off" = "Server off";
+
+"Server address: %@" = "Server address: %@";
+
+"Error starting WebDAV Server: %@" = "Error starting WebDAV Server: %@";
+
+"Enter a name for the uploaded video:" = "Enter a name for the uploaded video:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Server port";
+
+"Server name" = "Server name";
+
+"Security" = "Security";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "ON";
+
+"OFF" = "OFF";
+
+"If you continue you will erase the previous recording?" = "If you continue you will erase the previous recording?";
+
+"Enter a name for the audio resource:" = "Enter a name for the audio resource:";
+
+"Edit file" = "Edit file";
+
+"Copy to local store" = "Copy to local store";
+
+"Audio Recorder" = "Audio Recorder";
+
+"You need a microphone in order to record audio." = "You need a microphone in order to record audio.";
+
+"Text Editor" = "Text Editor";
+
+"You have unsaved changes, do you want to save them?" = "You have unsaved changes, do you want to save them?";
+
+"Close" = "Close";
+
+"Enter your new PIN" = "Enter your new PIN";
+
+"Enter your PIN" = "Enter your PIN";
+
+"Set PIN" = "Set PIN";
+
+"Confirm PIN" = "Confirm PIN";
+
+"Protected" = "Protected";
+
+"PIN did not match. Try again." = "PIN did not match. Try again.";
+
+"PIN incorrect. Try again." = "PIN incorrect. Try again.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "WARNING!!  There is no way to recover a lost PIN, use with caution.";
+
+"Please enter the authentication details:" = "Please enter the authentication details:";
+
+"View" = "View";
+
+"General" = "General";
+
+"Single tap action" = "Single tap action";
+
+"Default action" = "Default action";
+
+"Unlink" = "Unlink";
+
+"Are you sure you want to unlink this resource?" = "Are you sure you want to unlink this resource?";
+
+"Server Discover" = "Server Discover";
+
+"Slide show" = "Slide show";
+
+"Show hidden files" = "Show hidden files";
+
+"Shared download folder" = "Shared download folder";
+
+"Move" = "Move";
+
+"Default audio format" = "Default audio format";
+
+"Compress" = "Compress";
+
+"Extract" = "Extract";
+
+"Unable to compress file, the zip file already exists at destination!" = "Unable to compress file, the zip file already exists at destination!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Tap here to select the current folder";
+
+"Tap to view multiple file options" = "Tap to view multiple file options";
+
+"Delete marked files" = "Delete marked files";
+
+"Email marked files" = "Email marked files";
+
+"Unselect all" = "Unselect all";
+
+"This folder" = "This folder";
+
+"Stop" = "Stop";
+
+"Please enter the passphrase for the certificate:" = "Please enter the passphrase for the certificate:";
+
+"Certificate missing" = "Certificate missing";
+
+"Import photos" = "Import photos";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Press \"+\" to add a new server connection";
+
+"Trust all SSL certificates" = "Trust all SSL certificates";
+
+"Import media files" = "Import media files";
+
+"Properties" = "Properties";
+
+"Information" = "Information";
+
+"Are you sure you want to download this folder?" = "Are you sure you want to download this folder?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable features";
+
+"No images were found to display!" = "No images were found to display!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Are you sure you want to download these files?";
+
+"Are you sure you want to delete the marked files?" = "Are you sure you want to delete the marked files?";
+
+"Deleting files. Please Wait\n\n\n" = "Deleting files. Please Wait\n\n\n";
+
+"Unable to find images to import!" = "Unable to find images to import!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Enter a prefix for these items:";
+
+"%d Selected" = "%d Selected";
+
+"Buy" = "Buy";
+
+"Enter a password for the PDF:" = "Enter a password for the PDF:";
+
+"Copy to clipboard" = "Copy to clipboard";
+
+"File data copied to clipboard" = "File data copied to clipboard";
+
+"Select sort option" = "Select sort option";
+
+"Sort by filename" = "Sort by filename";
+
+"Sort by date" = "Sort by date";
+
+"Sort by filesize" = "Sort by file size";
+
+"Local file sharing" = "Local file sharing";
+
+"Accept connections" = "Accept connections";
+
+"Send to device" = "Send to device";
+
+"Use Photos app filename (if available) during upload" = "Use Photos app filename (if available) during upload";
+
+"'%@' was transfered from %@." = "'%1$@' was transfered from %2$@.";
+
+"'%@' was transfered to %@." = "'%1$@' was transfered to %2$@.";
+
+"" = "";
+
+"%@ is busy." = "%@ is busy.";
+
+"%@ refused to receive '%@'. Do you want to retry?" = "%1$@ refused to receive '%2$@'. Do you want to retry?";
+
+"%@ wants to send the file '%@' to you. Do you accept?" = "%1$@ wants to send the file '%2$@' to you. Do you accept?";
+
+"%d media files imported!" = "%d media files imported!";
+
+"%d of %d" = "%1$d of %2$d";
+
+"AAC" = "AAC";
+
+"Add directory" = "Add directory";
+
+"Add Server" = "Add Server";
+
+"Add Sync" = "Add Sync";
+
+"Allow delete" = "Allow delete";
+
+"An unknown error occurred!" = "An unknown error occurred!";
+
+"Application Information" = "Application Information";
+
+"Are you sure you want to delete this sync?" = "Are you sure you want to delete this sync?";
+
+"Are you sure you want to download your linked files again?" = "Are you sure you want to download your linked files again?";
+
+"Are you sure you want to import these files into the Photos app?" = "Are you sure you want to import these files into the Photos app?";
+
+"Are you sure you want to overwrite this file?" = "Are you sure you want to overwrite this file?";
+
+"Are you sure you want to reset the sync cache?" = "Are you sure you want to reset the sync cache?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Are you sure you want to sync, changes could override and delete your files?";
+
+"Browse local storage" = "Browse local storage";
+
+"CAF" = "CAF";
+
+"Cancel changes" = "Cancel changes";
+
+"Cancel sync settings" = "Cancel sync settings";
+
+"Change file encoding" = "Change file encoding";
+
+"Changed files" = "Changed files";
+
+"Changed local files" = "Changed local files";
+
+"Changed server files" = "Changed server files";
+
+"Configuration" = "Configuration";
+
+"Conflicts" = "Conflicts";
+
+"Connecting...." = "Connecting....";
+
+"Connection name" = "Connection name";
+
+"Contribute (upload only)" = "Contribute (upload only)";
+
+"Contribute" = "Contribute";
+
+"Create new folder" = "Create new folder";
+
+"Create new text file" = "Create new text file";
+
+"Creating folders. Please Wait\n\n\n" = "Creating folders. Please Wait\n\n\n";
+
+"Date format" = "Date format";
+
+"Date" = "Date";
+
+"Delete current image" = "Delete current image";
+
+"Deleted files" = "Deleted files";
+
+"Deleted local files" = "Deleted local files";
+
+"Deleted server files" = "Deleted server files";
+
+"Deleting file. Please Wait\n\n\n" = "Deleting file. Please Wait\n\n\n";
+
+"Description" = "Description";
+
+"Destination" = "Destination";
+
+/* No comment provided by engineer. */
+"Disabled" = "Disabled";
+
+"Do you want to upload the file now?" = "Do you want to upload the file now?";
+
+"Done with sync settings" = "Done with sync settings";
+
+"Done" = "Done";
+
+"Download link files again" = "Download link files again";
+
+"Edit Folder Syncs" = "Edit Folder Syncs";
+
+"Edit Servers" = "Edit Servers";
+
+"Edit" = "Edit";
+
+"Enable sync option for connections" = "Enable sync option for connections";
+
+"Enable" = "Enable";
+
+"Enabled" = "Enabled";
+
+"Encoding" = "Encoding";
+
+"Enter the URL for your\nWebDAV NavX configuration file:" = "Enter the URL for your\nWebDAV NavX configuration file:";
+
+"Error received from %@." = "Error received from %@.";
+
+"Error trying to transfer data!" = "Error trying to transfer data!";
+
+"Example Org" = "Example Org";
+
+"File will be ignored" = "File will be ignored";
+
+"Folder Sync" = "Folder Sync";
+
+"Folders" = "Folders";
+
+"Full (upload and download)" = "Full (upload and download)";
+
+"Full" = "Full";
+
+"Go back to previous folder" = "Go back to previous folder";
+
+"Go back" = "Go back";
+
+"Go forward" = "Go forward";
+
+"Help" = "Help";
+
+"http://example.com" = "http://example.com";
+
+"Image information" = "Image information";
+
+"Images" = "Images";
+
+"Import" = "Import";
+
+"Importing files. Please Wait\n\n\n" = "Importing files. Please Wait\n\n\n";
+
+"In App Purchases" = "In App Purchases";
+
+"Include videos in slide show" = "Include videos in slide show";
+
+"Last sync" = "Last sync";
+
+"Local File Sharing" = "Local File Sharing";
+
+"Local folder" = "Local folder";
+
+"Local" = "Local";
+
+"Mark current image" = "Mark current image";
+
+"media" = "media";
+
+"never" = "never";
+
+"New files" = "New files";
+
+"New Folder" = "New Folder";
+
+"New local files" = "New local files";
+
+"New server files" = "New server files";
+
+"Next track" = "never";
+
+"No changes found to sync!" = "No changes found to sync!";
+
+"No devices found!" = "No devices found!";
+
+"No discovered WebDAV NavX servers.\nPress the '+' to enter a configuration URL." = "No discovered WebDAV NavX servers.\nPress the '+' to enter a configuration URL.";
+
+"No files found!" = "No files found!";
+
+"Open file in browser" = "Open file in browser";
+
+"Options" = "Options";
+
+"Passphrase" = "Passphrase";
+
+"Pause" = "Pause";
+
+"Peer is busy!" = "Peer is busy!";
+
+"Permission denied!" = "Permission denied!";
+
+"Play/Stop" = "Play/Stop";
+
+"Playlist" = "Playlist";
+
+"Prepare to download next link tapped" = "Prepare to download next link tapped";
+
+"Press \"+\" to add a new sync configuration" = "Press \"+\" to add a new sync configuration";
+
+"Previous track" = "Previous track";
+
+"Print current item" = "Print current item";
+
+"Received unexpected command from %@." = "Received unexpected command from %@.";
+
+"Receiving....." = "Receiving.....";
+
+"Record an audio file" = "Record an audio file";
+
+"Record/Pause" = "Record/Pause";
+
+"Refresh current directory" = "Refresh current directory";
+
+"Refresh directory" = "Refresh directory";
+
+"Reload page" = "Reload page";
+
+"Remote folder" = "Remote folder";
+
+"Remote" = "Remote";
+
+"Reset cache" = "Reset cache";
+
+"Reset" = "Reset";
+
+"Response received..." = "Response received...";
+
+"Save current changes" = "Save current changes";
+
+"Save sync settings" = "Save sync settings";
+
+"Select encoding" = "Select encoding";
+
+"Select local folder" = "Select local folder";
+
+"Select local store" = "Select local store";
+
+"Select remote folder" = "Select remote folder";
+
+"selected" = "selected";
+
+"Sending...." = "Sending....";
+
+"Slideshow of current folder images" = "Slideshow of current folder images";
+
+"Sort files" = "Sort files";
+
+"Status" = "Status";
+
+"Stop loading" = "Stop loading";
+
+"Subscribe (download only)" = "Subscribe (download only)";
+
+"Subscribe" = "Subscribe";
+
+"Success" = "Success";
+
+"Sync Details" = "Sync Details";
+
+"Sync direction" = "Sync direction";
+
+"Sync Now" = "Sync Now";
+
+"Sync Preview" = "Sync Preview";
+
+"Sync settings" = "Sync settings";
+
+"Sync type" = "Sync type";
+
+"Sync" = "Sync";
+
+"Synchronise" = "Synchronise";
+
+"The destination file already exists!" = "The destination file already exists!";
+
+"The file already exists! Are you sure you want to overwrite this file?" = "The file already exists! Are you sure you want to overwrite this file?";
+
+"The local copy will be used" = "The local copy will be used";
+
+"The remote copy will be used" = "The remote copy will be used";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?";
+
+"Timer based slideshow" = "Timer based slideshow";
+
+"Transfer cancelled by %@." = "Transfer cancelled by %@.";
+
+"Transfer refused" = "Transfer refused";
+
+"Transfer was cancelled!" = "Transfer was cancelled!";
+
+"Transferring file. Please Wait\n\n\n" = "Transferring file. Please Wait\n\n\n";
+
+"Unable to connect to %@." = "Unable to connect to %@.";
+
+"Unable to copy file, the file already exists at destination!" = "Unable to copy file, the file already exists at destination!";
+
+"Unexpected HTML returned from server, please check your URL!" = "Unexpected HTML returned from server, please check your URL!";
+
+"Unix Line Endings" = "Unix Line Endings";
+
+"Unknown error occurred!" = "Unknown error occurred!";
+
+"Upload camera image" = "Upload camera image";
+
+"Upload current file" = "Upload current file";
+
+"Upload multiple photos" = "Upload multiple photos";
+
+"Upload single photo" = "Upload single photo";
+
+"Version" = "Version";
+
+"Waiting for the other user to accept the transfer...." = "Waiting for the other user to accept the transfer....";
+
+"Warning" = "Warning";
+
+"WAV" = "WAV";
+
+"Web browser" = "Web browser";
+
+"WebDAV Nav File" = "WebDAV Nav File";
+
+"WebDAV Nav Files" = "WebDAV Nav Files";
+
+"WebDAV Nav" = "WebDAV Nav";
+
+"WebDAV NavX" = "WebDAV NavX";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "You haven't selected the changes you want to sync. Please select the changes before attempting to sync";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "Your server doesn't appear to support the features required to use the sync feature. Try enabling the single folder option.";
+
+"Your URL needs to start with http:// or https://" = "Your URL needs to start with http:// or https://";
+
+"Please contact support@schimera.com if you need any information about the items listed." = "Please contact support@schimera.com if you need any information about the items listed.";
+
+"Single folder depth" = "Single folder";
+
+"WebDAV Nav+" = "WebDAV Nav+";
+
+"Server Address" = "Server Address";
+
+"Restore purchases" = "Restore purchases";
+
+"Network timeout" = "Network timeout";
+
+"Media playback in silent mode" = "Media playback in silent mode";
+
+"Open With" = "Open With";
+
+"Prompt" = "Prompt";
+
+"Copy to Local Storage" = "Copy to Local Storage";
+
+"Copy to Remote Server" = "Copy to Remote Server";
+
+"Open With Default Action" = "Open With Default Action";
+
+"Maximum image size" = "Maximum image size";
+
+"Thumbnails for smaller images" = "Thumbnails for smaller images";
+
+"Slide show interval (seconds)" = "Slide show interval (seconds)";
+
+"Screencast Server Settings" = "Screencast Server Settings";
+
+"Authentication retry attempts" = "Authentication retry attempts";
+
+"Erase local storage on enter background" = "Erase local storage on enter background";
+
+"Force logout on enter background" = "Force logout on enter background";
+
+"Enable session authentication" = "Enable session authentication";
+
+"Enable Wake-on-LAN" = "Enable Wake-on-LAN";
+
+"Screencast Server" = "Screencast Server";
+
+"Wake-on-LAN (WOL)" = "Wake-on-LAN (WOL)";
+
+"Wake-on-LAN" = "Wake-on-LAN";
+
+"MAC Address" = "MAC Address";
+
+"WAN IP Address" = "WAN IP Address";
+
+"WAN Port" = "WAN Port";
+
+"Find MAC address" = "Find MAC address";
+
+"All Albums" = "All Albums";
+
+"No password" = "No password";
+
+"%d new files/folders" = "%1$d new files/folders";
+
+"%d changed files/folders" = "%1$d changed files/folders";
+
+"%d deleted files/folders" = "%1$d deleted files/folders";
+
+"%d conflicted files/folders" = "%1$d conflicted files/folders";
+
+"Do you want to add password encryption?" = "Do you want to add password encryption?";
+
+"Enter a password for the ZIP:" = "Enter a password for the ZIP:";
+
+"Update" = "Update";
+
+"What type would you like to capture?" = "What type would you like to capture?";
+
+"Photo" = "Photo";
+
+"Browse Local Folders" = "Browse Local Folders";
+
+"Select server" = "Select server";
+
+"The app requires permission to use your microphone in order to record audio!" = "The app requires permission to use your microphone in order to record audio!";
+
+"Select Items" = "Select Items";
+
+"Your device is not currently configured to send emails!" = "Your device is not currently configured to send emails!";
+
+"Thumbnail if size less than" = "Thumbnail if size less than";
+
+"Video" = "Video";
+
+"Import Configuration" = "Import Configuration";
+
+"Enable background sync for Photos" = "Enable background sync for Photos";
+
+"Allow background sync over cellular network" = "Allow background sync over cellular network";
+
+"Background sync frequency" = "Background sync frequency";
+
+"Folder" = "Folder";
+
+"Text file" = "Text file";
+
+"Use Back button for previous folder" = "Use Back button for previous folder";
+
+"Enable Data Protection" = "Enable Data Protection";
+
+"None" = "None";
+
+"Authentication retry count" = "Authentication retry count";
+
+"Photo Albums" = "Photo Albums";
+
+"New Folder or File?" = "New Folder or File?";
+
+"Last Modified" = "Last Modified";
+
+"Content Length" = "Content Length";
+
+"Content Type" = "Content Type";
+
+"Resource Type" = "Resource Type";
+
+"Unable to extract file!" = "Unable to extract file!";
+
+"Select Paragraph" = "Select Paragraph";
+
+"Rich Text file" = "Rich Text file";
+
+"Allow Touch ID to unlock" = "Allow Touch ID to unlock";
+
+"Use built-in iOS PDF viewer" = "Use built-in iOS PDF viewer";
+
+"Hide In-App Purchase" = "Hide In-App Purchase";
+
+"Are you sure you want to clear this sketch?" = "Are you sure you want to clear this sketch?";
+
+"What image would you like to use?" = "What image would you like to use?";
+
+"Show taps on screen" = "Show taps on screen";
+
+"Directory tree fallback" = "Directory tree fallback";
+
+"Sort method" = "Sort method";
+
+"Include authentication details in AirPlay or Chromecast URL" = "Include authentication details in AirPlay or Chromecast URL";
+
+"Display images as slide show" = "Display images as slide show";
+
+"Apply filters to images on upload" = "Apply filters to images on upload";
+
+"New Server" = "New Server";
+
+"Viewers" = "Viewers";
+
+"Sketch" = "Sketch";
+
+"Brush size" = "Brush size";
+
+"Clear image" = "Clear image";
+
+"Undo previous action" = "Undo previous action";
+
+"Take camera image" = "Take camera image";
+
+"Upload local file" = "Upload local file";
+
+"Result" = "Result";
+
+"Select a local file to upload" = "Select a local file to upload";
+
+"Default sort order" = "Default sort order";
+
+"00:00:00:00:00:00" = "00:00:00:00:00:00";
+
+"1Password Extension was cancelled by the user" = "1Password Extension was cancelled by the user";
+
+"9" = "9";
+
+"Album" = "Album";
+
+"Allow pan sketch" = "Allow pan sketch";
+
+"An error occurred. Make sure your Chromecast is powered up and connected to the network." = "An error occurred. Make sure your Chromecast is powered up and connected to the network.";
+
+"App Extension API is not available is this version of iOS" = "App Extension API is not available is this version of iOS";
+
+"Are you sure you want to enable Background Sync over your cellular network?" = "Are you sure you want to enable Background Sync over your cellular network?";
+
+"Background Sync can have a serious impact on your battery life. Are you sure you want to enable Background Sync?" = "Background Sync can have a serious impact on your battery life. Are you sure you want to enable Background Sync?";
+
+"Background sync" = "Background sync";
+
+"Camera" = "Camera";
+
+"Cast Error" = "Cast Error";
+
+"Connection List" = "Connection List";
+
+"Creating folders" = "Creating folders";
+
+"Deleting files. Please Wait" = "Deleting files. Please Wait";
+
+"Deleting files" = "Deleting files";
+
+"Dismiss" = "Dismiss";
+
+"Downloading file." = "Downloading file.";
+
+"Downloading file" = "Downloading file";
+
+"Error starting Server: %@" = "Error starting Server: %@";
+
+"Failed to contact the 1Password Extension" = "Failed to contact the 1Password Extension";
+
+"Failed to execute script that collects web page information" = "Failed to execute script that collects web page information";
+
+"Failed to fill web page because script could not be evaluated" = "Failed to fill web page because script could not be evaluated";
+
+"Failed to fill web page because script is missing" = "Failed to fill web page because script is missing";
+
+"Failed to obtain URL String from web view. The web view must be loaded completely when calling the 1Password Extension" = "Failed to obtain URL String from web view. The web view must be loaded completely when calling the 1Password Extension";
+
+"Failed to parse information returned by 1Password Extension" = "Failed to parse information returned by 1Password Extension";
+
+"File preview" = "File preview";
+
+"Follow shortcut" = "Follow shortcut";
+
+"Format?" = "Format?";
+
+"How do you want to use the file?" = "How do you want to use the file?";
+
+"Importing file." = "Importing file.";
+
+"Importing files" = "Importing files";
+
+"Invalid configuration file found!" = "Invalid configuration file found!";
+
+"Media info" = "Media info";
+
+"More" = "More";
+
+"Not Found in document!" = "Not Found in document!";
+
+"Open" = "Open";
+
+"PDF" = "PDF";
+
+"Photo album" = "Photo album";
+
+"Photo Library" = "Photo Library";
+
+"PNG" = "PNG";
+
+"Preview" = "Preview";
+
+"Processing file. Please Wait..." = "Processing file. Please Wait...";
+
+"Refresh" = "Refresh";
+
+"Root folder" = "Root folder";
+
+"Save details" = "Save details";
+
+"Search document" = "Search document";
+
+"Share document" = "Share document";
+
+"Share" = "Share";
+
+"Source" = "Source";
+
+"Starting..." = "Starting...";
+
+"This option will delete all your files in the local Download folder when the app goes to background. Are you sure you want to enable this option?" = "This option will delete all your files in the local Download folder when the app goes to background. Are you sure you want to enable this option?";
+
+"This option will force the app to logout and return to the connection list when the app goes to background. Are you sure you want to enable this option?" = "This option will force the app to logout and return to the connection list when the app goes to background. Are you sure you want to enable this option?";
+
+"Unable to find the MAC Address!" = "Unable to find the MAC Address!";
+
+"Unable to identify the media file" = "Unable to identify the media file";
+
+"Unable to send WOL without a WAN IP address and Port" = "Unable to send WOL without a WAN IP address and Port";
+
+"Unlock the app" = "Unlock the app";
+
+"Unlock WebDAV Nav" = "Unlock WebDAV Nav";
+
+"Upgrade to the full version of the app WebDAV Nav+" = "Upgrade to the full version of the app WebDAV Nav+";
+
+"Upgrade" = "Upgrade";
+
+"Uploading file. Please Wait" = "Uploading file. Please Wait";
+
+"Uploading file." = "Uploading file.";
+
+"Uploading file" = "Uploading file";
+
+"WAN Address" = "WAN Address";
+
+"What type would you like to add?" = "What type would you like to add?";
+
+"xxx.xxx.xxx.xxx" = "xxx.xxx.xxx.xxx";
+
+"Your Server address is: %@" = "Your Server address is: %@";
+
+"Forbidden. The source URI and the destination URI may be the same." = "Forbidden. The source URI and the destination URI may be the same.";
+
+"Kindle" = "Kindle";
+
+"Enable Send To Kindle" = "Enable Send To Kindle";
+
+"Send To Kindle email" = "Send To Kindle email";
+
+"Allow conversion to Kindle format" = "Allow conversion to Kindle format";
+
+"Send to Kindle" = "Send to Kindle";
+
+"Copy URL to clipboard" = "Copy URL to clipboard";
+

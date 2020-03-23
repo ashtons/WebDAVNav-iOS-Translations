@@ -1,0 +1,372 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nApakah Anda ingin menelusuri toko lokal bukan?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "A resource cannot be created at the destination URI until one or more intermediate collections are created.";
+
+"Access denied!" = "Akses ditolak!";
+
+"Actions" = "Tindakan";
+
+"Are you sure you want to delete this resource?" = "Apakah Anda yakin ingin menghapus file ini?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Apakah Anda yakin ingin menghapus server ini?\nSemua file yang didownload akan dihapus.";
+
+"Are you sure you want to download this resource?" = "Apakah Anda yakin ingin men-download file ini?";
+
+"Are you sure you want to overwrite your local copy?" = "Apakah Anda yakin ingin copy lokal menimpa Anda?";
+
+"Browse Favourites" = "Penyimpanan Lokal";
+
+"bytes" = "bytes";
+
+"Cancel" = "Membatalkan";
+
+"Confirmation" = "Konfirmasi";
+
+"Connection started...." = "Koneksi mulai ....";
+
+"Copy" = "Menyalin";
+
+"Create" = "Menciptakan";
+
+"Delete" = "Hapus";
+
+"Download" = "Download";
+
+"Downloading file. Please Wait\n\n\n" = "Men-download file. Mohon tunggu\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "Email";
+
+"Enter a name for the uploaded resource:" = "Masukkan nama untuk file upload:";
+
+"Enter new folder name:" = "Masukkan nama folder baru:";
+
+"Enter new name for the duplicate resource:" = "Masukkan nama baru untuk sumber daya duplikat:";
+
+"Enter new name:" = "Masukkan nama baru:";
+
+"Error" = "Kesalahan";
+
+"Finished!" = "Selesai!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Rincian server";
+
+"No" = "Tidak";
+
+"No authentication" = "Tidak ada rincian otentikasi";
+
+"Not enough storage to create folder!" = "Tidak cukup penyimpanan untuk membuat folder!";
+
+"OK" = "OK";
+
+"Open with..." = "Buka dengan ...";
+
+"Overwrite" = "Timpa";
+
+"PB" = "PB";
+
+"Play" = "Bermain";
+
+"Rename" = "Ubah nama";
+
+"Response received, downloading file..." = "Respon yang diterima, men-download file ...";
+
+"Sorry, no installed applications seem to support this file type" = "Tidak ada aplikasi yang diinstal mendukung jenis file";
+
+"Source moved to new location" = "Sumber dipindahkan ke lokasi baru";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "Sumber tujuan tidak memiliki ruang penyimpanan yang cukup.";
+
+"The destination resource is locked." = "Sumber daya tujuan terkunci.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "Tujuan URI terletak pada server yang berbeda, yang menolak untuk menerima sumber daya.";
+
+"The folder already exists!" = "Folder sudah ada!";
+
+"The folder cannot be created until the parent folders are created!" = "Folder tidak dapat dibuat sampai folder induk yang dibuat!";
+
+"The resource is locked!" = "Sumber daya terkunci!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "Sumber daya tersebut berhasil dipindahkan ke tujuan URI yang sudah ada sebelumnya.";
+
+"The resource was successfully copied." = "Sumber daya itu berhasil disalin.";
+
+"The server does not allow collections to be created at the specified location!" = "Server tidak mengizinkan koleksi yang akan dibuat di lokasi yang ditentukan!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "Sumber daya sumber berhasil disalin ke tujuan sumber daya yang sudah ada sebelumnya.";
+
+"The source URI and the destination URI are the same." = "Sumber dan tujuan adalah sama.";
+
+"Unable to open" = "Tidak dapat membuka";
+
+"Upload" = "Unggah";
+
+"Username: %@" = "Username: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Ya";
+
+"You need to enter a URL for the WebDAV server!" = "Anda harus memasukkan URL untuk server WebDAV!";
+
+"Your file has failed to be copied into the local store!" = "File Anda telah gagal disalin ke toko lokal!";
+
+"Your file has successfully been copied into the local store!" = "File Anda telah berhasil disalin ke dalam penyimpanan lokal!";
+
+"Save" = "Menyimpan";
+
+"Name" = "Nama";
+
+"Server URL" = "Server URL";
+
+"Username" = "Username";
+
+"Password" = "Pasword";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav pintas";
+
+"Email shortcut" = "Email pintas";
+
+"Unable to use added server!" = "Tidak dapat menggunakan server ditambahkan!";
+
+"Unable to decode the shortcut!" = "Tidak dapat decode shortcut!";
+
+"Your WebDAV Server address is: %@" = "Alamat server WebDAV: %@";
+
+"You need a wifi connection to run the server." = "Anda memerlukan koneksi wifi untuk menjalankan server.";
+
+"WebDAV Server Settings" = "Pengaturan server WebDAV";
+
+"Settings" = "Pengaturan";
+
+"Server off" = "Server dimatikan";
+
+"Server address: %@" = "Alamat: %@";
+
+"Error starting WebDAV Server: %@" = "Kesalahan memulai server: %@";
+
+"Enter a name for the uploaded video:" = "Masukkan nama untuk video upload:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Port server";
+
+"Server name" = "Nama server";
+
+"Security" = "Keamanan";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Jika Anda melanjutkan, Anda akan menghapus rekaman sebelumnya?";
+
+"Enter a name for the audio resource:" = "Masukkan nama untuk sumber daya audio:";
+
+"Edit file" = "Mengedit dokumen";
+
+"Copy to local store" = "Salin ke penyimpanan lokal";
+
+"Audio Recorder" = "Audio Recorder";
+
+"You need a microphone in order to record audio." = "Anda membutuhkan mikrofon untuk merekam audio.";
+
+"Text Editor" = "Text Editor";
+
+"You have unsaved changes, do you want to save them?" = "Anda memiliki perubahan yang belum disimpan, apakah Anda ingin menyimpan mereka?";
+
+"Close" = "Dekat";
+
+"Enter your new PIN" = "Masukkan PIN baru Anda";
+
+"Enter your PIN" = "Masukkan PIN";
+
+"Set PIN" = "Set PIN";
+
+"Confirm PIN" = "Konfirmasi PIN";
+
+"Protected" = "Dilindungi";
+
+"PIN did not match. Try again." = "PIN tidak cocok. Coba lagi.";
+
+"PIN incorrect. Try again." = "PIN salah. Coba lagi.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "PERINGATAN! Tidak ada cara untuk memulihkan PIN hilang, gunakan dengan hati-hati.";
+
+"Please enter the authentication details:" = "Silahkan masukkan detail otentikasi:";
+
+"View" = "Lihat";
+
+"General" = "Umum";
+
+"Single tap action" = "Single tekan tindakan";
+
+"Default action" = "Default tindakan";
+
+"Unlink" = "Unlink file";
+
+"Are you sure you want to unlink this resource?" = "Apakah Anda yakin ingin menghapus link sumber ini?";
+
+"Server Discover" = "Temukan Server";
+
+"Slide show" = "Galeri foto";
+
+"Show hidden files" = "File tersembunyi";
+
+"Shared download folder" = "Common penyimpanan";
+
+"Move" = "Bergerak";
+
+"Default audio format" = "Default audio format";
+
+"Compress" = "Kompres";
+
+"Extract" = "Memperluas";
+
+"Unable to compress file, the zip file already exists at destination!" = "Tidak dapat memampatkan file, file zip sudah ada di tempat tujuan!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Tekan di sini untuk memilih folder saat";
+
+"Tap to view multiple file options" = "Tekan untuk melihat opsi-opsi beberapa file";
+
+"Delete marked files" = "Hapus";
+
+"Email marked files" = "Email";
+
+"Unselect all" = "Unselect all";
+
+"This folder" = "Folder ini";
+
+"Stop" = "Berhenti";
+
+"Please enter the passphrase for the certificate:" = "Masukkan passphrase untuk sertifikat:";
+
+"Certificate missing" = "Sertifikat hilang";
+
+"Import photos" = "Mengimpor foto";
+
+"Select all" = "Select all";
+
+"Trust all SSL certificates" = "Percaya semua sertifikat SSL";
+
+"Import media files" = "Impor file media";
+
+"Properties" = "Properti";
+
+"Information" = "Informasi";
+
+"Are you sure you want to download this folder?" = "Anda yakin ingin mendownload folder ini?";
+
+"Unable to print this item!" = "Tidak dapat mencetak item ini!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Tidak ada gambar ditemukan untuk menampilkan!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Meng-upload file. Harap Tunggu\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Anda yakin ingin mendownload file ini?";
+
+"Are you sure you want to delete the marked files?" = "Anda yakin ingin menghapus file ini?";
+
+"Deleting files. Please Wait\n\n\n" = "Menghapus file. Harap Tunggu\n\n\n";
+
+"Unable to find images to import!" = "Tidak dapat menemukan gambar untuk mengimpor!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Masukkan awalan untuk unsur ini:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Masukkan password untuk PDF:";
+
+"Copy to clipboard" = "Salin file ke clipboard";
+
+"Sort by filename" = "Urut berdasarkan nama file";
+
+"Sort by date" = "Urut berdasarkan tanggal";
+
+"Sort by filesize" = "Urut berdasarkan ukuran file";
+
+"Accept connections" = "Menerima koneksi";
+
+"Use Photos app filename (if available) during upload" = "Gunakan nama file Photos.app (jika tersedia) selama upload";
+
+"Allow delete" = "Memungkinkan penghapusan file";
+
+"An unknown error occurred!" = "Kesalahan yang tidak jelas!";
+
+"Are you sure you want to delete this sync?" = "Anda yakin ingin menghapus entri ini?";
+
+"Are you sure you want to reset the sync cache?" = "Anda yakin ingin menghapus cache?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Anda yakin ingin sync, perubahan bisa mengganti dan menghapus file Anda?";
+
+"Browse local storage" = "Telusuri penyimpanan lokal";
+
+"Changed files" = "Berubah file";
+
+"Changed local files" = "Berubah file lokal";
+
+"Changed server files" = "Modifikasi file server yang";
+
+"Date format" = "Format tanggal";
+
+"Deleted files" = "dihapus file";
+
+"Deleted local files" = "Dihapus file lokal";
+
+"Deleted server files" = "Dihapus file server yang";
+
+"New files" = "Baru files";
+
+"New local files" = "Baru lokal file";
+
+"New server files" = "Server baru file";
+
+"No changes found to sync!" = "Tidak ada perubahan ditemukan sync!";
+
+"Playlist" = "Playlist";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

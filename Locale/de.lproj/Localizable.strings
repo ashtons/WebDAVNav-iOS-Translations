@@ -1,0 +1,951 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nWollen Sie stattdessen die lokale Ablage durchsuchen?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "Ein Objekt kann in der Ziel-URI nicht eher erzeugt werden, bis ein oder mehrere Ordner erstellt worden sind.";
+
+"Access denied!" = "Zugriff verweigert!";
+
+"Actions" = "Aktionen";
+
+"Are you sure you want to delete this resource?" = "Wollen Sie dieses Objekt wirklich löschen?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Wollen Sie diesen Server löschen?\nAlle heruntergeladenen Dateien werden gelöscht.";
+
+"Are you sure you want to download this resource?" = "Wollen Sie dieses Objekt herunterladen?";
+
+"Are you sure you want to overwrite your local copy?" = "Wollen Sie Ihre lokale Kopie wirklich überschreiben?";
+
+"Browse Favourites" = "Favoriten durchsuchen";
+
+"bytes" = "bytes";
+
+"Cancel" = "Abbrechen";
+
+"Confirmation" = "Bestätigung";
+
+"Connection started...." = "Verbindung gestartet....";
+
+"Copy" = "Kopieren";
+
+"Create" = "Erstellen";
+
+"Delete" = "Löschen";
+
+"Download" = "Download";
+
+"Downloading file. Please Wait\n\n\n" = "Datei wird heruntergeladen. Bitte warten\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Entweder ist der Überschreibschutz \"F\" und der Zustand der Zieldatei ist nicht Null oder die Methode wurde in einer Tiefe: 0 Transaktion verwendet.";
+
+"Email" = "E-Mail";
+
+"Enter a name for the uploaded resource:" = "Geben Sie einen Namen für das hochgeladene Objekt an:";
+
+"Enter new folder name:" = "Geben Sie einen Namen für den neuen Ordner an:";
+
+"Enter new name for the duplicate resource:" = "Geben Sie den neuen Namen für das kopierte Objekt an:";
+
+"Enter new name:" = "Neuen Namen eingeben:";
+
+"Error" = "Fehler";
+
+"Finished!" = "Fertig!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Server bearbeiten";
+
+"No" = "No";
+
+"No authentication" = "Keine Authentifizierung";
+
+"Not enough storage to create folder!" = "Nicht genug Speicherplatz, um Ordner zu erstellen!";
+
+"OK" = "OK";
+
+"Open with..." = "Öffnen mit ...";
+
+"Overwrite" = "Überschreiben";
+
+"PB" = "PB";
+
+"Play" = "Abspielen";
+
+"Rename" = "Umbenennen";
+
+"Response received, downloading file..." = "Antwort erhalten, lade Datei herunter...";
+
+"Sorry, no installed applications seem to support this file type" = "Leider scheinen keine der installierten Anwendungen diesen Dateityp zu unterstützen.";
+
+"Source moved to new location" = "Quelle wurde an einen neuen Standort verschoben";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "Es ist nicht genügend Speicherplatz im Zielspeicher verfügbar.";
+
+"The destination resource is locked." = "Das Zielspeicher ist gesperrt.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "The Zieladresse (URI) befindet sich auf einem anderen Server, der die Datei nicht akzeptiert.";
+
+"The folder already exists!" = "Der Ordner ist bereits vorhanden!";
+
+"The folder cannot be created until the parent folders are created!" = "Der Ordner kann nicht erstellt werden, bis die übergeordneten Ordner erstellt worden sind!";
+
+"The resource is locked!" = "Das Objekt ist gesperrt!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "Die Datei wurde erfolgreich zu einer bereits vorhandenen Ziel-Adresse (URI) verschoben.";
+
+"The resource was successfully copied." = "Das Objekt wurde erfolgreich kopiert.";
+
+"The server does not allow collections to be created at the specified location!" = "Der Server erlaubt es nicht, am  angegebenen Speicherort neue Ordner zu erstellen!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "Die Quelldatei wurde erfolgreich in ein bereits vorhandenes Zielverzeichnis kopiert.";
+
+"The source URI and the destination URI are the same." = "Die URI-Adresse der Quelldatei und der Zieldatei sind identisch.";
+
+"Unable to open" = "Kann nicht geöffnet werden";
+
+"Upload" = "Hochladen";
+
+"Username: %@" = "Benutzername: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Ja";
+
+"You need to enter a URL for the WebDAV server!" = "Sie müssen eine URL für den WebDAV-Server eingeben!";
+
+"Your file has failed to be copied into the local store!" = "Ihre Datei konnte nicht in den lokalen Speicher kopiert werden!";
+
+"Your file has successfully been copied into the local store!" = "Ihre Datei wurde erfolgreich in den lokalen Speicher kopiert!";
+
+"Save" = "Speichern";
+
+"Name" = "Name";
+
+"Server URL" = "Server-Adresse";
+
+"Username" = "Benutzername";
+
+"Password" = "Passwort";
+
+"WebDAV Nav Shortcut" = "Verknüpfung";
+
+"Email shortcut" = "E-Mail Verknüpfung";
+
+"Unable to use added server!" = "Der hinzugefügte Server kann nicht verwendet werden!";
+
+"Unable to decode the shortcut!" = "Die Verknüpfung kann nicht entziffert werden!";
+
+"Your WebDAV Server address is: %@" = "Ihre WebDAV-Server-Adresse lautet: %@";
+
+"You need a wifi connection to run the server." = "Sie benötigen einen WLAN-Verbindung, um den Server zu verwenden.";
+
+"WebDAV Server Settings" = "WebDAV-Server-Einstellungen";
+
+"Settings" = "Einstellungen";
+
+"Server off" = "Server offline";
+
+"Server address: %@" = "Adresse: %@";
+
+"Error starting WebDAV Server: %@" = "Fehler beim Starten des WebDAV-Server: %@";
+
+"Enter a name for the uploaded video:" = "Geben Sie einen Namen für das hochgeladenen Video an:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Server port";
+
+"Server name" = "Name";
+
+"Security" = "Sicherheit";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Wenn Sie fortfahren, soll die vorherige Aufnahme gelöscht werden?";
+
+"Enter a name for the audio resource:" = "Geben Sie einen Namen für das Audio-Objekt ein:";
+
+"Edit file" = "Bearbeiten";
+
+"Copy to local store" = "Kopieren auf lokalen Speicher";
+
+"Audio Recorder" = "Audio Recorder";
+
+"You need a microphone in order to record audio." = "Sie benötigen ein Mikrofon, um Ton aufzunehmen.";
+
+"Text Editor" = "Text-Editor";
+
+"You have unsaved changes, do you want to save them?" = "Sie haben nicht gespeicherte Änderungen, willst du sie retten?";
+
+"Close" = "Schließen";
+
+"Enter your new PIN" = "Geben Sie Ihren neuen PIN ein";
+
+"Enter your PIN" = "Geben Sie Ihre PIN ein";
+
+"Set PIN" = "PIN einrichten";
+
+"Confirm PIN" = "PIN bestätigen";
+
+"Protected" = "Geschützt";
+
+"PIN did not match. Try again." = "PIN stimmen nicht überein. Versuchen Sie es erneut.";
+
+"PIN incorrect. Try again." = "PIN falsch. Versuchen Sie es erneut.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "WARNUNG! Es gibt keinen Weg eine verlorene PIN wiederherzustellen - mit Vorsicht verwenden.";
+
+"Please enter the authentication details:" = "Bitte geben Sie die Authentifizierungs-Daten ein:";
+
+"View" = "Anzeigen";
+
+"General" = "Allgemein";
+
+"Single tap action" = "Single Tap Aktion";
+
+"Default action" = "Standard-Aktion";
+
+"Unlink" = "Trennen";
+
+"Are you sure you want to unlink this resource?" = "Sind Sie sicher, dass Sie diese Ressource trennen?";
+
+"Server Discover" = "Entdecke Server";
+
+"Slide show" = "Diashow";
+
+"Show hidden files" = "Versteckte Dateien anzeigen";
+
+"Shared download folder" = "Shared download folder";
+
+"Move" = "Verschieben";
+
+"Default audio format" = "Audio-Format";
+
+"Compress" = "Komprimieren";
+
+"Extract" = "Expand";
+
+"Unable to compress file, the zip file already exists at destination!" = "Kann Datei nicht komprimieren, die Zip-Datei bereits vorhanden ist am Ziel!";
+
+"Folder index mode" = "Folder Suchmodus";
+
+"File index mode" = "Datei Suchmodus";
+
+"Tap here to select the current folder" = "Tippen Sie hier, um den aktuellen Ordner auswählen";
+
+"Tap to view multiple file options" = "Tippen Sie auf mehrere Datei verfügbaren Optionen anzuzeigen";
+
+"Delete marked files" = "Ausgewählte Dateien löschen";
+
+"Email marked files" = "E-Mail ausgewählten Dateien";
+
+"Unselect all" = "Abwählen";
+
+"This folder" = "Dieser Ordner";
+
+"Stop" = "Stoppen";
+
+"Please enter the passphrase for the certificate:" = "Bitte geben Sie die für das Zertifikat Passwort:";
+
+"Certificate missing" = "Zertifikat fehlt";
+
+"Import photos" = "Importieren";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Drücken Sie \"+\" um eine neue Server-Verbindung";
+
+"Trust all SSL certificates" = "Vertrauen alle SSL-Zertifikate";
+
+"Import media files" = "Import Mediadateien";
+
+"Properties" = "Eigenschaften";
+
+"Information" = "Auskünfte";
+
+"Are you sure you want to download this folder?" = "Wollen Sie dieses Objekt herunterladen?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Keine Bilder gefunden!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Lesezeichen";
+
+"Uploading file. Please Wait\n\n\n" = "Hochladen der Datei. Bitte warten\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Wollen Sie diese Dateien herunterladen?";
+
+"Are you sure you want to delete the marked files?" = "Wollen Sie diese Dateien löschen?";
+
+"Deleting files. Please Wait\n\n\n" = "Lösche Dateien. Bitte warten\n\n\n";
+
+"Unable to find images to import!" = "Keine Bilder zum Importieren gefunden!";
+
+"Current" = "Hier";
+
+"Enter a prefix for these items:" = "Geben Sie diesen Dateien einen Präfix:";
+
+"%d Selected" = "%d ausgewählt";
+
+"Buy" = "Buy";
+
+"Enter a password for the PDF:" = "Geben Sie ein Passwort für das PDF:";
+
+"Copy to clipboard" = "In die Zwischenablage kopieren";
+
+"File data copied to clipboard" = "Die Datei hat sich in die Zwischenablage kopiert wurden";
+
+"Select sort option" = "Sortierungs-Methode auswählen";
+
+"Sort by filename" = "Sortiert nach Dateiname";
+
+"Sort by date" = "Sortiert nach Datum";
+
+"Sort by filesize" = "Sortiert nach Dateigröße";
+
+"Local file sharing" = "Lokale File-Sharing";
+
+"Accept connections" = "Akzeptiert Verbindungen";
+
+"Send to device" = "An Gerät senden";
+
+"Use Photos app filename (if available) during upload" = "Verwenden Sie Photos.app Dateinamen (falls vorhanden) während des Uploads";
+
+"'%@' was transfered from %@." = "'%1$@' was transfered from %2$@.";
+
+"'%@' was transfered to %@." = "'%1$@' was transfered to %2$@.";
+
+"%@ is busy." = "%@ is busy.";
+
+"%@ refused to receive '%@'. Do you want to retry?" = "%1$@ refused to receive '%2$@'. Do you want to retry?";
+
+"%@ wants to send the file '%@' to you. Do you accept?" = "%1$@ wants to send the file '%2$@' to you. Do you accept?";
+
+"%d media files imported!" = "%d Dateien importiert!";
+
+"%d of %d" = "%1$d of %2$d";
+
+"AAC" = "AAC";
+
+"Add directory" = "Add directory";
+
+"Add Server" = "Add Server";
+
+"Add Sync" = "Sync hinzufügen Eintrag";
+
+"Allow delete" = "Erlauben Löschung";
+
+"An unknown error occurred!" = "Ein unbekannter Fehler ist aufgetreten!";
+
+"Application Information" = "Application Information";
+
+"Are you sure you want to delete this sync?" = "Sind Sie sicher, dass Sie diesen Eintrag löschen?";
+
+"Are you sure you want to download your linked files again?" = "Sind Sie sicher, dass Sie wollen, um Ihre verknüpften Dateien erneut herunterladen?";
+
+"Are you sure you want to import these files into the Photos app?" = "Sind Sie sicher, dass Sie diese Dateien in das Photos.app importieren?";
+
+"Are you sure you want to overwrite this file?" = "Sind Sie sicher, dass Sie diese Datei überschreiben?";
+
+"Are you sure you want to reset the sync cache?" = "Sind Sie sicher, dass Sie den Cache zurücksetzen?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Sind Sie sicher, die Sie synchronisieren möchten, könnten Änderungen überschreiben und löschen Sie Ihre Dateien?";
+
+"Browse local storage" = "Durchsuchen lokaler Speicher";
+
+"CAF" = "CAF";
+
+"Cancel changes" = "Änderungen abbrechen";
+
+"Cancel sync settings" = "Abbrechen Sync-Einstellungen";
+
+"Change file encoding" = "Change file encoding";
+
+"Changed files" = "Geänderte Dateien";
+
+"Changed local files" = "Geänderte lokale Dateien";
+
+"Changed server files" = "Geändert Server-Dateien";
+
+"Configuration" = "Configuration";
+
+"Conflicts" = "Konfliktreichen Veränderungen";
+
+"Connecting...." = "Connecting....";
+
+"Connection name" = "Connection name";
+
+"Contribute (upload only)" = "Contribute (upload only)";
+
+"Contribute" = "Contribute";
+
+"Create new folder" = "Neuen Ordner erstellen";
+
+"Create new text file" = "Erstellen Sie neue Textdatei";
+
+"Creating folders. Please Wait\n\n\n" = "Erstellen von Ordnern. Bitte warten";
+
+"Date format" = "Datums-Format";
+
+"Date" = "Date";
+
+"Delete current image" = "Aktuelles Bild löschen";
+
+"Deleted files" = "Gelöschte Dateien";
+
+"Deleted local files" = "Gelöschte lokale Dateien";
+
+"Deleted server files" = "Gelöschte Server-Dateien";
+
+"Deleting file. Please Wait\n\n\n" = "Deleting file. Please Wait\n\n\n";
+
+"Description" = "Description";
+
+"Destination" = "Destination";
+
+/* No comment provided by engineer. */
+"Disabled" = "Deaktiviert";
+
+"Do you want to upload the file now?" = "Do you want to upload the file now?";
+
+"Done with sync settings" = "Done with sync settings";
+
+"Done" = "Done";
+
+"Download link files again" = "Download link files again";
+
+"Edit Folder Syncs" = "Edit Folder Syncs";
+
+"Edit Servers" = "Edit Servers";
+
+"Edit" = "Edit";
+
+"Enable sync option for connections" = "Aktivieren Sie Sync-Option für Verbindungen";
+
+"Enable" = "Enable";
+
+"Enabled" = "Aktiviert";
+
+"Encoding" = "Zeichenkodierung";
+
+"Enter the URL for your\nWebDAV NavX configuration file:" = "Enter the URL for your\nWebDAV NavX configuration file:";
+
+"Error received from %@." = "Fehler empfangen von %@.";
+
+"Error trying to transfer data!" = "Fehler beim Datentransfer!";
+
+"Example Org" = "Example Org";
+
+"File will be ignored" = "File will be ignored";
+
+"Folder Sync" = "Folder Sync";
+
+"Folders" = "Ordner";
+
+"Full (upload and download)" = "Full (upload and download)";
+
+"Full" = "Full";
+
+"Go back to previous folder" = "Go back to previous folder";
+
+"Go back" = "Go back";
+
+"Go forward" = "Go forward";
+
+"Help" = "Help";
+
+"http://example.com" = "http://example.com";
+
+"Image information" = "Image information";
+
+"Images" = "Bilder";
+
+"Import" = "Import";
+
+"Importing files. Please Wait\n\n\n" = "Importing files. Please Wait\n\n\n";
+
+"In App Purchases" = "In App-Käufe";
+
+"Include videos in slide show" = "Fügen Sie Videos in einer Diashow";
+
+"Last sync" = "Letzte Sync-Zeit";
+
+"Local File Sharing" = "Lokale File-Sharing";
+
+"Local folder" = "Lokale Ordner";
+
+"Local" = "Local";
+
+"Mark current image" = "Mark current image";
+
+"media" = "media";
+
+"never" = "never";
+
+"New files" = "Neue Dateien";
+
+"New Folder" = "New Folder";
+
+"New local files" = "Neue lokale Dateien";
+
+"New server files" = "Neue Server-Dateien";
+
+"Next track" = "nie";
+
+"No changes found to sync!" = "Keine Änderungen gefunden zu synchronisieren!";
+
+"No devices found!" = "Keine Geräte gefunden!";
+
+"No discovered WebDAV NavX servers.\nPress the '+' to enter a configuration URL." = "No discovered WebDAV NavX servers.\nPress the '+' to enter a configuration URL.";
+
+"No files found!" = "Keine Dateien gefunden!";
+
+"Open file in browser" = "Öffnen Sie die Datei im Browser";
+
+"Options" = "Optionen";
+
+"Passphrase" = "Passphrase";
+
+"Pause" = "Pause";
+
+"Peer is busy!" = "Peer ist besetzt!";
+
+"Permission denied!" = "Permission denied!";
+
+"Play/Stop" = "Play/Stop";
+
+"Playlist" = "Playlist";
+
+"Prepare to download next link tapped" = "Prepare to download next link tapped";
+
+"Press \"+\" to add a new sync configuration" = "Drücken Sie \"+\" um eine neue Sync-Konfiguration hinzufügen";
+
+"Previous track" = "Previous track";
+
+"Print current item" = "Print current item";
+
+"Received unexpected command from %@." = "Received unexpected command from %@.";
+
+"Receiving....." = "Receiving.....";
+
+"Record an audio file" = "Record an audio file";
+
+"Record/Pause" = "Record/Pause";
+
+"Refresh current directory" = "Refresh aktuelles Verzeichniss";
+
+"Refresh directory" = "Refresh directory";
+
+"Reload page" = "Reload page";
+
+"Remote folder" = "Server-Ordner";
+
+"Remote" = "Remote";
+
+"Reset cache" = "Cache löschen";
+
+"Reset" = "Neu setzen";
+
+"Response received..." = "Antwort erhalten...";
+
+"Save current changes" = "Speichern";
+
+"Save sync settings" = "Speichern";
+
+"Select encoding" = "Zeichenkodierung wählen";
+
+"Select local folder" = "Lokalen Ordner wählen";
+
+"Select local store" = "Lokaler store wählen";
+
+"Select remote folder" = "Wählen Sie Ordner auf dem Server";
+
+"selected" = "selektiert";
+
+"Sending...." = "Sending....";
+
+"Slideshow of current folder images" = "Slideshow vom aktuellen Ordnerbild";
+
+"Sort files" = "Dateien sortieren";
+
+"Status" = "Status";
+
+"Stop loading" = "Stop loading";
+
+"Subscribe (download only)" = "Subscribe (download only)";
+
+"Subscribe" = "Subscribe";
+
+"Success" = "Erfolgreich";
+
+"Sync Details" = "Sync Details";
+
+"Sync direction" = "Sync-Richtung";
+
+"Sync Now" = "Synchroniseren";
+
+"Sync Preview" = "Vorschau";
+
+"Sync settings" = "Sync Einstellungen";
+
+"Sync type" = "Richtung";
+
+"Sync" = "Sync";
+
+"Synchronise" = "Synchronisieren";
+
+"The destination file already exists!" = "Die Zieldatei existiert bereits!";
+
+"The file already exists! Are you sure you want to overwrite this file?" = "Die Datei existiert bereits! Wollen Sie die Datei überschreiben?";
+
+"The local copy will be used" = "The local copy will be used";
+
+"The remote copy will be used" = "The remote copy will be used";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "Die Sync-Funktion kann möglicherweise löschen und ändern Sie Ihre Dateien. Stellen Sie sicher, Sie haben die nötigen Sicherungen Ihrer Dateien. Sind Sie sicher, dass Sie die Sync-Funktion zu aktivieren?";
+
+"Timer based slideshow" = "Timer based slideshow";
+
+"Transfer cancelled by %@." = "Transfer abgebrochen von %@.";
+
+"Transfer refused" = "Transfer abgewiesen";
+
+"Transfer was cancelled!" = "Transfer wurde abgebrochen!";
+
+"Transferring file. Please Wait\n\n\n" = "übertrage Datei. bitte warten\n\n\n";
+
+"Unable to connect to %@." = "Unable to connect to %@.";
+
+"Unable to copy file, the file already exists at destination!" = "Kann Datei nicht kopieren, Die Datei existiert bereits!";
+
+"Unexpected HTML returned from server, please check your URL!" = "Unerwartete HTML vom Server zurückgegeben, überprüfen Sie bitte Ihre Adresse!";
+
+"Unix Line Endings" = "Unix Line Endings";
+
+"Unknown error occurred!" = "Unbekannter Fehler ist aufgetreten!";
+
+"Upload camera image" = "Upload camera image";
+
+"Upload current file" = "Upload current file";
+
+"Upload multiple photos" = "Upload multiple photos";
+
+"Upload single photo" = "Upload single photo";
+
+"Version" = "Version";
+
+"Waiting for the other user to accept the transfer...." = "Warte auf anderen Benutzer....";
+
+"Warning" = "Warnung";
+
+"WAV" = "WAV";
+
+"Web browser" = "Web browser";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "Sie haben keine Änderungen ausgewählt. Bitte wählen Sie die Änderungen, bevor Sie synchronisieren";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "Your server doesn't appear to support the features required to use the sync feature. Try enabling the single folder option.";
+
+"Your URL needs to start with http:// or https://" = "Ihre URL muss mit http:// or https:// beginnen";
+
+"Please contact support@schimera.com if you need any information about the items listed." = "Bitte kontaktieren Sie support@schimera.com, wenn Sie irgendwelche Informationen über die aufgeführten Punkte müssen.";
+
+"Single folder depth" = "Einzelne Ordner";
+
+"Server Address" = "Adresse";
+
+"Restore purchases" = "Wiederherstellen Käufe";
+
+"Network timeout" = "Netzwerk-Timeout";
+
+"Media playback in silent mode" = "Medien-Wiedergabe bei Stummschaltung";
+
+"Open With" = "Öffnen mit";
+
+"Prompt" = "Prompt";
+
+"Copy to Local Storage" = "Auf lokalen Speicher kopieren";
+
+"Copy to Remote Server" = "Auf Server kopieren";
+
+"Open With Default Action" = "Open With Default Action";
+
+"Maximum image size" = "Maximale Bildgrösse";
+
+"Thumbnails for smaller images" = "Thumbnails für kleinere Bilder";
+
+"Slide show interval (seconds)" = "Slideshow Intervall (Sek.)";
+
+"Screencast Server Settings" = "Screencast Server Settings";
+
+"Authentication retry attempts" = "Anzahl Versuche für Authentifizierung";
+
+"Erase local storage on enter background" = "Lokaler Speicher beim Schliessen löschen";
+
+"Force logout on enter background" = "Verbindung beim Schliessen trennen";
+
+"Enable session authentication" = "Session Authentifizierung";
+
+"Enable Wake-on-LAN" = "Aktivieren Sie Wake-on-LAN";
+
+"Screencast Server" = "Screencast Server";
+
+"Wake-on-LAN (WOL)" = "Wake-on-LAN (WOL)";
+
+"Wake-on-LAN" = "Wake-on-LAN";
+
+"MAC Address" = "MAC Address";
+
+"WAN IP Address" = "WAN IP Address";
+
+"WAN Port" = "WAN Port";
+
+"Find MAC address" = "Finden Sie MAC-Adresse";
+
+"All Albums" = "All Albums";
+
+"No password" = "Kein Passwort";
+
+"%d new files/folders" = "%1$d neue Dateien/Ordner";
+
+"%d changed files/folders" = "%1$d Geänderte Dateien/Ordner";
+
+"%d deleted files/folders" = "%1$d Gelöschte Dateien/Ordner";
+
+"%d conflicted files/folders" = "%1$d Dateien/Ordner mit Konflikt";
+
+"Do you want to add password encryption?" = "Wollen Sie das Archiv mit einem Passwort schützen?";
+
+"Enter a password for the ZIP:" = "Passwort für das Archiv eingeben:";
+
+"Update" = "Speichern";
+
+"What type would you like to capture?" = "Bild oder Videoaufnahme?";
+
+"Photo" = "Foto";
+
+"Browse Local Folders" = "Browse Local Folders";
+
+"Select server" = "Wählen Sie Server";
+
+"The app requires permission to use your microphone in order to record audio!" = "Die App muss die Erlaubnis, Ihr Mikrofon, um Audiomaterial zu verwenden!";
+
+"Select Items" = "Select Items";
+
+"Your device is not currently configured to send emails!" = "Ihr Gerät ist momentan nicht konfiguriert, um E-Mails zu senden!";
+
+"Thumbnail if size less than" = "Thumbnail if size less than";
+
+"Video" = "Video";
+
+"Import Configuration" = "Konfiguration importieren";
+
+"Enable background sync for Photos" = "Aktivieren Sie Hintergrund-Sync für Fotos";
+
+"Allow background sync over cellular network" = "Hintergrund zulassen Sync über Mobilfunknetz";
+
+"Background sync frequency" = "Background sync frequency";
+
+"Folder" = "Ordner";
+
+"Text file" = "Text-Datei";
+
+"Use Back button for previous folder" = "Verwenden Schaltfläche Zurück zur vorherigen Ordner";
+
+"Enable Data Protection" = "Data Protection aktivieren";
+
+"None" = "keiner";
+
+"Authentication retry count" = "Authentication Wiederholungsanzahl";
+
+"Photo Albums" = "Photo Albums";
+
+"New Folder or File?" = "Neuer Ordner oder Datei?";
+
+"Last Modified" = "Last Modified";
+
+"Content Length" = "Content Length";
+
+"Content Type" = "Content Type";
+
+"Resource Type" = "Resource Type";
+
+"Unable to extract file!" = "Kann nicht extrahieren Datei!";
+
+"Select Paragraph" = "Select Paragraph";
+
+"Rich Text file" = "Rich-Text-Datei";
+
+"Allow Touch ID to unlock" = "Schalte mit Touch ID";
+
+"Use built-in iOS PDF viewer" = "Verwenden eingebauten iOS PDF-Viewer";
+
+"Hide In-App Purchase" = "Ausblenden In-App-Kauf";
+
+"Are you sure you want to clear this sketch?" = "Sind Sie sicher, dass Sie diese Skizze löschen?";
+
+"What image would you like to use?" = "Welches Bild whould Sie zu bedienen?";
+
+"Show taps on screen" = "Zeigen Berührungsposition auf dem Bildschirm";
+
+"Directory tree fallback" = "Verzeichnisbaum-Fallback";
+
+"Sort method" = "Sortierungs-Methode";
+
+"Include authentication details in AirPlay or Chromecast URL" = "Fügen Authentifizierungsdetails in AirPlay oder Chrome URL";
+
+"Display images as slide show" = "Anzeigen von Bildern als Diashow";
+
+"Apply filters to images on upload" = "Filter anwenden, um Bilder auf Upload";
+
+"New Server" = "New Server";
+
+"Viewers" = "Viewers";
+
+"Sketch" = "Sketch";
+
+"Brush size" = "Pinselgröße";
+
+"Clear image" = "Bild löschen";
+
+"Undo previous action" = "Rückgängig vorherige Aktion";
+
+"Take camera image" = "Take camera image";
+
+"Upload local file" = "Lokalen Datei hochladen";
+
+"Result" = "Ergebnis";
+
+"Select a local file to upload" = "Wählen Sie eine lokale Datei hochladen";
+
+"Default sort order" = "Default sort order";
+
+"00:00:00:00:00:00" = "00:00:00:00:00:00";
+
+"1Password Extension was cancelled by the user" = "1Password Extension was cancelled by the user";
+
+"An error occurred. Make sure your Chromecast is powered up and connected to the network." = "An error occurred. Make sure your Chromecast is powered up and connected to the network.";
+
+"App Extension API is not available is this version of iOS" = "App Extension API is not available is this version of iOS";
+
+"Are you sure you want to enable Background Sync over your cellular network?" = "Are you sure you want to enable Background Sync over your cellular network?";
+
+"Background Sync can have a serious impact on your battery life. Are you sure you want to enable Background Sync?" = "Background Sync can have a serious impact on your battery life. Are you sure you want to enable Background Sync?";
+
+"Background sync" = "Background sync";
+
+"Camera" = "Camera";
+
+"Cast Error" = "Cast Error";
+
+"Connection List" = "Connection List";
+
+"Creating folders" = "Creating folders";
+
+"Deleting files. Please Wait" = "Deleting files. Please Wait";
+
+"Deleting files" = "Deleting files";
+
+"Dismiss" = "Dismiss";
+
+"Downloading file." = "Downloading file.";
+
+"Downloading file" = "Downloading file";
+
+"Error starting Server: %@" = "Error starting Server: %@";
+
+"Failed to contact the 1Password Extension" = "Failed to contact the 1Password Extension";
+
+"Failed to execute script that collects web page information" = "Failed to execute script that collects web page information";
+
+"File preview" = "File preview";
+
+"Follow shortcut" = "Follow shortcut";
+
+"Format?" = "Format?";
+
+"How do you want to use the file?" = "How do you want to use the file?";
+
+"Importing file." = "Importing file.";
+
+"Importing files" = "Importing files";
+
+"Invalid configuration file found!" = "Ungültige Konfigurationsdatei übernommen gefunden!";
+
+"Media info" = "Media info";
+
+"More" = "More";
+
+"Not Found in document!" = "Not Found in document!";
+
+"Open" = "Open";
+
+"Photo album" = "Photo album";
+
+"Photo Library" = "Photo Library";
+
+"Preview" = "Preview";
+
+"Processing file. Please Wait..." = "Processing file. Please Wait...";
+
+"Refresh" = "Refresh";
+
+"Root folder" = "Root folder";
+
+"Save details" = "Save details";
+
+"Search document" = "Search document";
+
+"Share document" = "Share document";
+
+"Share" = "Share";
+
+"Source" = "Source";
+
+"Starting..." = "Starting...";
+
+"Unable to find the MAC Address!" = "Unable to find the MAC Address!";
+
+"Unable to identify the media file" = "Unable to identify the media file";
+
+"Unable to send WOL without a WAN IP address and Port" = "Unable to send WOL without a WAN IP address and Port";
+
+"Upgrade to the full version of the app WebDAV Nav+" = "Upgrade to the full version of the app WebDAV Nav+";
+
+"Uploading file. Please Wait" = "Uploading file. Please Wait";
+
+"Uploading file." = "Uploading file.";
+
+"Uploading file" = "Uploading file";
+
+"WAN Address" = "WAN Address";
+
+"What type would you like to add?" = "What type would you like to add?";
+
+"Your Server address is: %@" = "Your Server address is: %@";
+
+"Forbidden. The source URI and the destination URI may be the same." = "Verboten. Der Quellort und Zielort sind identisch!";
+

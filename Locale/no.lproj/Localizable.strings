@@ -1,0 +1,374 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nØnsker du å bla gjennom den lokale butikken i stedet?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "A resource cannot be created at the destination URI until one or more intermediate collections are created.";
+
+"Access denied!" = "Ingen tilgang!";
+
+"Actions" = "Handlinger";
+
+"Are you sure you want to delete this resource?" = "Er du sikker på at du vil slette denne filen?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Er du sikker på at du vil slette denne serveren?\nAlle nedlastede filer blir slettet.";
+
+"Are you sure you want to download this resource?" = "Er du sikker på at du vil laste ned denne filen?";
+
+"Are you sure you want to overwrite your local copy?" = "Er du sikker på at du vil overskrive den lokale kopien?";
+
+"Browse Favourites" = "Lokal lagring";
+
+"bytes" = "bytes";
+
+"Cancel" = "Avbryt";
+
+"Confirmation" = "Bekreftelse";
+
+"Connection started...." = "Connection startet ....";
+
+"Copy" = "Kopier";
+
+"Create" = "Lag";
+
+"Delete" = "Slett";
+
+"Download" = "Last ned";
+
+"Downloading file. Please Wait\n\n\n" = "Laster ned filen. Vennligst vent\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "E-post";
+
+"Enter a name for the uploaded resource:" = "Skriv inn et navn for den opplastede filen:";
+
+"Enter new folder name:" = "Skriv inn nytt mappenavn:";
+
+"Enter new name for the duplicate resource:" = "Skriv inn nytt navn for de dupliserte fil:";
+
+"Enter new name:" = "Skriv inn nytt navn:";
+
+"Error" = "Feil";
+
+"Finished!" = "Ferdig!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Rediger server";
+
+"No" = "No";
+
+"No authentication" = "Ingen autentisering";
+
+"Not enough storage to create folder!" = "Ikke nok lagringsplass til å opprette mappen!";
+
+"OK" = "OK";
+
+"Open with..." = "Åpne med ...";
+
+"Overwrite" = "Overskriv";
+
+"PB" = "PB";
+
+"Play" = "Spill";
+
+"Rename" = "Gi nytt navn";
+
+"Response received, downloading file..." = "Innhold mottatt, nedlasting av fil ...";
+
+"Sorry, no installed applications seem to support this file type" = "Beklager, ingen installerte programmer synes å støtte denne filtypen";
+
+"Source moved to new location" = "Kilde flyttet til nytt sted";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "Destinasjonen ressursen har ikke nok lagringsplass.";
+
+"The destination resource is locked." = "Destinasjonen ressurs er låst.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "Destinasjonen URI ligger på en annen server, som nekter å godta ressursen.";
+
+"The folder already exists!" = "Mappen finnes allerede!";
+
+"The folder cannot be created until the parent folders are created!" = "Mappen kan ikke opprettes før den overordnede mappene er opprettet!";
+
+"The resource is locked!" = "Ressursen er låst!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "Ressursen ble flyttet korrekt til en pre-eksisterende destinasjon URI.";
+
+"The resource was successfully copied." = "Ressursen ble kopiert.";
+
+"The server does not allow collections to be created at the specified location!" = "Serveren tillater ikke samlinger kan opprettes på det angitte stedet!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "Kilden ressursen ble kopiert til en pre-eksisterende destinasjon ressurs.";
+
+"The source URI and the destination URI are the same." = "Kilden URI og målet URI er den samme.";
+
+"Unable to open" = "Kan ikke åpne";
+
+"Upload" = "Last opp";
+
+"Username: %@" = "Brukernavn: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Ja";
+
+"You need to enter a URL for the WebDAV server!" = "Du må angi en URL for WebDAV server!";
+
+"Your file has failed to be copied into the local store!" = "Filen er ikke blitt kopiert inn den lokale butikken!";
+
+"Your file has successfully been copied into the local store!" = "Filen har med hell blitt kopiert til lokal lagring!";
+
+"Save" = "Lagre";
+
+"Name" = "Navn";
+
+"Server URL" = "Server URL";
+
+"Username" = "Brukernavn";
+
+"Password" = "Passord";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Snarvei";
+
+"Email shortcut" = "Epost snarvei";
+
+"Unable to use added server!" = "Kan ikke bruke ekstra server!";
+
+"Unable to decode the shortcut!" = "Kan ikke dekode snarveien!";
+
+"Your WebDAV Server address is: %@" = "Din WebDAV-server adresse: %@";
+
+"You need a wifi connection to run the server." = "Du trenger en wifi-tilkobling for å kjøre serveren.";
+
+"WebDAV Server Settings" = "WebDAV server-innstillinger";
+
+"Settings" = "Innstillinger";
+
+"Server off" = "Serveren er av";
+
+"Server address: %@" = "Server adresse: %@";
+
+"Error starting WebDAV Server: %@" = "Feil med WebDAV-server: %@";
+
+"Enter a name for the uploaded video:" = "Skriv inn et navn for opplastede video:";
+
+"WebDAV Server" = "WebDAV-server";
+
+"Server port" = "Server port";
+
+"Server name" = "Server name";
+
+"Security" = "Sikkerhet";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN-lås";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Hvis du fortsetter du vil slette det forrige opptaket?";
+
+"Enter a name for the audio resource:" = "Skriv inn et navn på lydfilen:";
+
+"Edit file" = "Rediger fil";
+
+"Copy to local store" = "Kopier til lokale butikken";
+
+"Audio Recorder" = "Taleopptaker";
+
+"You need a microphone in order to record audio." = "Du trenger en mikrofon for å ta opp lyd.";
+
+"Text Editor" = "Tekst Editor";
+
+"You have unsaved changes, do you want to save them?" = "Du har ulagrede endringer, vil du lagre dem?";
+
+"Close" = "Lukk";
+
+"Enter your new PIN" = "Skriv inn din nye PIN-koden";
+
+"Enter your PIN" = "Skriv inn PIN-koden";
+
+"Set PIN" = "Angi PIN";
+
+"Confirm PIN" = "Bekreft PIN";
+
+"Protected" = "Beskyttet";
+
+"PIN did not match. Try again." = "PIN samsvarte ikke. Prøv på nytt.";
+
+"PIN incorrect. Try again." = "PIN feil. Prøv på nytt.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "ADVARSEL! Det er ingen måte å gjenopprette en tapt PIN-kode, brukes med forsiktighet.";
+
+"Please enter the authentication details:" = "Vennligst oppgi godkjenning detaljer:";
+
+"View" = "View";
+
+"General" = "Generelle innstillinger";
+
+"Single tap action" = "Enkelt trykk action";
+
+"Default action" = "Default action";
+
+"Unlink" = "Fjern link";
+
+"Are you sure you want to unlink this resource?" = "Er du sikker på at du vil fjerne tilknytningen denne filen?";
+
+"Server Discover" = "Oppdag Server";
+
+"Slide show" = "Fotogalleri";
+
+"Show hidden files" = "Skjulte filer";
+
+"Shared download folder" = "Felles lagring";
+
+"Move" = "Flytt";
+
+"Default audio format" = "Default lydformat";
+
+"Compress" = "Komprimer";
+
+"Extract" = "Utvid";
+
+"Unable to compress file, the zip file already exists at destination!" = "Kan ikke komprimere filen, finnes i zip-filen allerede på reisemålet!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Trykk her for å velge den aktuelle mappen";
+
+"Tap to view multiple file options" = "Klikk for å vise flere filalternativer";
+
+"Delete marked files" = "Slett";
+
+"Email marked files" = "E-post";
+
+"Unselect all" = "Opphev";
+
+"This folder" = "Denne mappen";
+
+"Stop" = "Stopp";
+
+"Please enter the passphrase for the certificate:" = "Vennligst skriv inn passord for sertifikatet:";
+
+"Certificate missing" = "Sertifikat mangler";
+
+"Import photos" = "Importere bilder";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Trykk \"+\" for å legge til en ny server forbindelse";
+
+"Trust all SSL certificates" = "Klarer alle SSL-sertifikater";
+
+"Import media files" = "Importere mediefiler";
+
+"Properties" = "Egenskaper";
+
+"Information" = "Informasjon";
+
+"Are you sure you want to download this folder?" = "Er du sikker på at du vil laste ned denne mappen?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Ingen bilder ble funnet å vise!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Laster opp filen. Vent\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Er du sikker på at du vil laste ned disse filene?";
+
+"Are you sure you want to delete the marked files?" = "Er du sikker på at du vil slette disse filene?";
+
+"Deleting files. Please Wait\n\n\n" = "Slette filer. Vent\n\n\n";
+
+"Unable to find images to import!" = "Kan ikke finne bilder å importere!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Skriv inn et prefiks for disse elementene:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Skriv inn et passord for PDF:";
+
+"Copy to clipboard" = "Kopier filen til utklippstavlen";
+
+"Sort by filename" = "Sorter etter filnavnene";
+
+"Sort by date" = "Sorter etter dato";
+
+"Sort by filesize" = "Sorter etter filstørrelsen";
+
+"Accept connections" = "Godta tilkoblinger";
+
+"Use Photos app filename (if available) during upload" = "Bruk Photos.app filnavn (hvis tilgjengelig) under opplasting";
+
+"Allow delete" = "Tillat sletting av filer";
+
+"An unknown error occurred!" = "En ukjent feil oppstod!";
+
+"Are you sure you want to delete this sync?" = "Er du sikker på at du vil slette denne oppføringen?";
+
+"Are you sure you want to reset the sync cache?" = "Er du sikker på at du vil tømme bufferen?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Er du sikker på at du vil synkronisere, kan endringer erstatte og slette filene dine?";
+
+"Browse local storage" = "Bla lokal lagring";
+
+"Changed files" = "Endrede filer";
+
+"Changed local files" = "Endrede lokale filer";
+
+"Changed server files" = "Modifisert server filer";
+
+"Date format" = "datoformat";
+
+"Deleted files" = "Slettede filer";
+
+"Deleted local files" = "Slettede lokale filer";
+
+"Deleted server files" = "Slettede server filer";
+
+"New files" = "Nye filer";
+
+"New local files" = "Nye lokale filer";
+
+"New server files" = "Nye server filer";
+
+"No changes found to sync!" = "Ingen endringer funnet å synkronisere!";
+
+"Playlist" = "Playlist";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

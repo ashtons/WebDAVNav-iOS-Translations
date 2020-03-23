@@ -1,0 +1,532 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nローカルストレージを参照しますか？";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "作業フォルダ作成が完了するまで、フォルダを作成することはできません。";
+
+"Access denied!" = "アクセスが拒否されました！";
+
+"Actions" = "アクション";
+
+"Are you sure you want to delete this resource?" = "削除してもよろしいですか？";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "サーバーを削除してもよろしいですか？\nダウンロードしたファイルは消去されます。";
+
+"Are you sure you want to download this resource?" = "この項目をダウンロードしますか？";
+
+"Are you sure you want to overwrite your local copy?" = "ローカルに同名項目があります。上書きしてもよろしいですか？";
+
+"Browse Favourites" = "お気に入りを参照する";
+
+"bytes" = "バイト";
+
+"Cancel" = "キャンセル";
+
+"Confirmation" = "確認";
+
+"Connection started...." = "接続を開始しました....";
+
+"Copy" = "コピー";
+
+"Create" = "作成";
+
+"Delete" = "削除";
+
+"Download" = "ダウンロード";
+
+"Downloading file. Please Wait\n\n\n" = "ファイルをダウンロード中です。お待ちください\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 トランザクション.";
+
+"Email" = "メール";
+
+"Enter a name for the uploaded resource:" = "アップロード項目の名称を入力してください:";
+
+"Enter new folder name:" = "フォルダ名を入力してください:";
+
+"Enter new name for the duplicate resource:" = "重複しています。別の名称を入力してください:";
+
+"Enter new name:" = "名称を入力してください:";
+
+"Error" = "エラー";
+
+"Finished!" = "完了しました！";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "サーバー編集";
+
+"No" = "いいえ";
+
+"No authentication" = "認証なし";
+
+"Not enough storage to create folder!" = "十分な空きがないので、フォルダを作成できません！";
+
+"OK" = "はい";
+
+"Open with..." = "次の方法で開く...";
+
+"Overwrite" = "上書き";
+
+"PB" = "PB";
+
+"Play" = "再生";
+
+"Rename" = "名称変更";
+
+"Response received, downloading file..." = "ファイルをダウンロード中です...";
+
+"Sorry, no installed applications seem to support this file type" = "このファイルはサポートしていません。";
+
+"Source moved to new location" = "ファイルを新しい場所に移動する";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "転送先の容量が不足しています。";
+
+"The destination resource is locked." = "転送先がロックされています。";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "転送先の URI は、別のサーバーなので受信を拒絶されました。";
+
+"The folder already exists!" = "そのフォルダは既に存在しています！";
+
+"The folder cannot be created until the parent folders are created!" = "親フォルダが作成されるまでフォルダを作成することはできません！";
+
+"The resource is locked!" = "ロックされています！";
+
+"The resource was moved successfully to a pre-existing destination URI." = "移動が完了しました。（既存のファイルに上書きしました。）";
+
+"The resource was successfully copied." = "コピーが完了しました。";
+
+"The server does not allow collections to be created at the specified location!" = "サーバーは、フォルダが指定された場所に作成することは許可されません！";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "正常に上書きされました。。";
+
+"The source URI and the destination URI are the same." = "転送元と転送先が同じです。";
+
+"Unable to open" = "開くことができません。";
+
+"Upload" = "アップロード";
+
+"Username: %@" = "ユーザー名: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "はい";
+
+"You need to enter a URL for the WebDAV server!" = "WebDAVサーバのアドレスを入力してください！";
+
+"Your file has failed to be copied into the local store!" = "ローカルへコピーできませんでした！";
+
+"Your file has successfully been copied into the local store!" = "ローカルへのコピーが完了しました！";
+
+"Save" = "保存";
+
+"Name" = "名称";
+
+"Server URL" = "アドレス";
+
+"Username" = "ユーザー名";
+
+"Password" = "パスワード";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav ショートカット";
+
+"Email shortcut" = "ショートカットをメールで送る";
+
+"Unable to use added server!" = "サーバーは使用できません！";
+
+"Unable to decode the shortcut!" = "ショートカットをデコードできません！";
+
+"Your WebDAV Server address is: %@" = "WebDAVサーバーのアドレスは: %@";
+
+"You need a wifi connection to run the server." = "サーバーを動作させるには WiFi 接続が必要です。";
+
+"WebDAV Server Settings" = "WebDAVサーバーの設定";
+
+"Settings" = "設定";
+
+"Server off" = "サーバーがオフになっています";
+
+"Server address: %@" = "サーバーのアドレス: %@";
+
+"Error starting WebDAV Server: %@" = "WebDAVサーバーを起動中にエラーが発生しました: %@";
+
+"Enter a name for the uploaded video:" = "ビデオの名前を入力してください:";
+
+"WebDAV Server" = "WebDAVサーバー";
+
+"Server port" = "サーバーのポート番号";
+
+"Server name" = "サーバー名";
+
+"Security" = "セキュリティ";
+
+"PIN" = "PIN番号";
+
+"PIN lock" = "PIN番号";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "続行すると以前の記録が消去されますが、続行しますか？";
+
+"Enter a name for the audio resource:" = "オーディオファイルの名前を入力してください:";
+
+"Edit file" = "ファイルの編集";
+
+"Copy to local store" = "ローカルにコピーする";
+
+"Audio Recorder" = "オーディオレコーダー";
+
+"You need a microphone in order to record audio." = "録音するにはマイクが必要です。";
+
+"Text Editor" = "テキストエディタ";
+
+"You have unsaved changes, do you want to save them?" = "未保存の変更がありますが、それらを保存しますか？";
+
+"Close" = "閉じる";
+
+"Enter your new PIN" = "新しい PIN番号を入力してください。";
+
+"Enter your PIN" = " PIN番号を入力してください。";
+
+"Set PIN" = "PIN 番号設定";
+
+"Confirm PIN" = "PIN 番号を確認してください。";
+
+"Protected" = "保護";
+
+"PIN did not match. Try again." = "一致しません。やり直してください。";
+
+"PIN incorrect. Try again." = "もう一度やり直してください。";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "警告！ PIN コードは絶対に忘れないようにしてください。";
+
+"Please enter the authentication details:" = "認証情報を入力してください：";
+
+"View" = "表示";
+
+"General" = "一般的な";
+
+"Single tap action" = "シングルタップ時のアクション";
+
+"Default action" = "デフォルトのアクション";
+
+"Unlink" = "削除";
+
+"Are you sure you want to unlink this resource?" = "ファイルを削除してもよろしいですか？";
+
+"Server Discover" = "サーバー検索";
+
+"Slide show" = "フォトギャラリー";
+
+"Show hidden files" = "全てのファイルを表示する";
+
+"Shared download folder" = "共有ダウンロードフォルダ";
+
+"Move" = "移動";
+
+"Default audio format" = "デフォルトのオーディオ形式";
+
+"Compress" = "圧縮";
+
+"Extract" = "展開";
+
+"Unable to compress file, the zip file already exists at destination!" = "既に同名の zipファイルが存在しているので、ファイルを圧縮することができません！";
+
+"Folder index mode" = "フォルダのインデックス";
+
+"File index mode" = "ファイルのインデックス";
+
+"Tap here to select the current folder" = "ここをタップして、カレントフォルダを選択してください。";
+
+"Tap to view multiple file options" = "タップすると、複数のファイルのオプションが表示されます";
+
+"Delete marked files" = "マークしたファイルを削除";
+
+"Email marked files" = "マークしたファイルをメール";
+
+"Unselect all" = "全選択解除";
+
+"This folder" = "このフォルダには";
+
+"Stop" = "停止";
+
+"Please enter the passphrase for the certificate:" = "証明書のパスフレーズを入力してください。";
+
+"Certificate missing" = "証明書がありません";
+
+"Import photos" = "写真のインポート";
+
+"Select all" = "全選択";
+
+"Press \"+\" to add a new server connection" = "\"+\"ボタンでサーバー追加";
+
+"Trust all SSL certificates" = "全ての SSL証明書を信頼する";
+
+"Import media files" = "メディアをインポートする";
+
+"Properties" = "プロパティ";
+
+"Information" = "情報";
+
+"Are you sure you want to download this folder?" = "このフォルダをダウンロードしますか？";
+
+"Unable to print this item!" = "このアイテムを印刷できません！";
+
+"Enable Features" = "機能を有効にします";
+
+"No images were found to display!" = "ない画像が表示するには、見つかりませんでした！";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV出力";
+
+"Bookmarks" = "ブックマーク";
+
+"Uploading file. Please Wait\n\n\n" = "ファイルのアップロード。待ってください。\n\n\n";
+
+"Browser" = "ブラウザー";
+
+"Are you sure you want to download these files?" = "あなたはこれらのファイルをダウンロードしてもよろしいですか？";
+
+"Are you sure you want to delete the marked files?" = "あなたはこれらのファイルを削除してもよろしいですか？";
+
+"Deleting files. Please Wait\n\n\n" = "Deleting files. Please Wait\n\n\n";
+
+"Unable to find images to import!" = "インポートする画像を見つけることができません！";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "これらの項目の接頭辞を入力します。";
+
+"%d Selected" = "%d Selected";
+
+"Buy" = "買う";
+
+"Enter a password for the PDF:" = "PDFのパスワードを入力してください：";
+
+"Copy to clipboard" = "クリップボードにファイルをコピーする";
+
+"File data copied to clipboard" = "ファイルがクリップボードにコピーされました";
+
+"Select sort option" = "並べ替えオプションを選択する";
+
+"Sort by filename" = "ファイル名で並べ替え";
+
+"Sort by date" = "日付で並べ替え";
+
+"Sort by filesize" = "ファイルサイズで並べ替え";
+
+"Accept connections" = "接続を受け入れる";
+
+"Send to device" = "デバイスに送信";
+
+"Use Photos app filename (if available) during upload" = "アップロード時にPhotos.appファイル名を（可能な場合）を使用して";
+
+"Add Server" = "サーバの追加";
+
+"Allow delete" = "削除を許可";
+
+"An unknown error occurred!" = "不明なエラーが発生しました！";
+
+"Are you sure you want to delete this sync?" = "あなたはこのエントリを削除してもよろしいですか？";
+
+"Are you sure you want to download your linked files again?" = "リンクされたファイルを再度ダウンロードしてもよろしいですか？";
+
+"Are you sure you want to import these files into the Photos app?" = "あなたがPhotos.appにこれらのファイルをインポートしてもよろしいですか？";
+
+"Are you sure you want to overwrite this file?" = "あなたがこのファイルを上書きしてもよろしいですか？";
+
+"Are you sure you want to reset the sync cache?" = "あなたはキャッシュをリセットしてもよろしいですか？";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "あなたが同期してもよろしいですか、変更はファイルを置き換え、削除するでしょうか？";
+
+"Browse local storage" = "ローカルストレージを閲覧する";
+
+"Cancel sync settings" = "同期設定を解除";
+
+"Changed files" = "変更されたファイル";
+
+"Changed local files" = "変更され、ローカルファイル";
+
+"Changed server files" = "変更されたサーバーのファイル";
+
+"Conflicts" = "衝突変化";
+
+"Date format" = "日付の形式";
+
+"Deleted files" = "削除されたファイル";
+
+"Deleted local files" = "削除されたローカルファイル";
+
+"Deleted server files" = "削除されたサーバーのファイル";
+
+"Deleting file. Please Wait\n\n\n" = "ファイルを削除します。お待ちください";
+
+"Enable sync option for connections" = "同期の接続オプションを有効";
+
+"Error trying to transfer data!" = "データを転送中にエラーが発生しました！";
+
+"Importing files. Please Wait\n\n\n" = "ファイルをインポートする。お待ちください";
+
+"New files" = "新しいファイル";
+
+"New Folder" = "新しいフォルダー";
+
+"New local files" = "新しいローカルファイル";
+
+"New server files" = "新しいサーバーのファイル";
+
+"No changes found to sync!" = "同期するように見つかりませんでした変更はありません！";
+
+"No devices found!" = "どのデバイスが見つかりませんでした！";
+
+"No files found!" = "何もファイルが見つかりませんでした！";
+
+"Open file in browser" = "ブラウザでファイルを開きます";
+
+"Peer is busy!" = "ピアがビジー状態である！";
+
+"Permission denied!" = "アクセスが拒否されました！";
+
+"Playlist" = "Playlist";
+
+"Press \"+\" to add a new sync configuration" = "新しい同期設定を追加するには、\"+\"を押してください";
+
+"Save sync settings" = "同期設定を保存";
+
+"Select local folder" = "ローカルフォルダを選択します。";
+
+"Select remote folder" = "リモートフォルダを選択します。";
+
+"Sort files" = "ソートファイル";
+
+"Sync Details" = "Sync Details";
+
+"Sync Now" = "今すぐ同期";
+
+"Sync Preview" = "プレビュー";
+
+"Sync" = "Sync";
+
+"Synchronise" = "同期します";
+
+"The destination file already exists!" = "宛先ファイルがすでに存在しています！";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "同期機能は、潜在的に削除してファイルを変更することができます。あなたのファイルの適切なバックアップがあることを確認してください。あなたが同期を有効にしてもよろしいですか？";
+
+"Unknown error occurred!" = "不明なエラーが発生しました！";
+
+"Upload camera image" = "Upload camera image";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "あなたが同期したい変更を選択されていません。同期しようとする前に変更を選択してください。";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "サーバが同期機能を使用するために必要な機能をサポートするために表示されません。単一のフォルダ]オプションを有効にしてください。";
+
+"Your URL needs to start with http:// or https://" = "URLはhttp://またはhttps://で開始する必要があります";
+
+"Please contact support@schimera.com if you need any information about the items listed." = "あなたがリストされている項目についての情報が必要な場合support@schimera.comにお問い合わせください。";
+
+"Restore purchases" = "購入を復元";
+
+"Network timeout" = "ネットワークタイムアウト";
+
+"Media playback in silent mode" = "サイレントモードでメディアプレイバック";
+
+"Open With" = "次の方法で開く...";
+
+"Prompt" = "場所のプロンプト";
+
+"Copy to Local Storage" = "ローカルストレージへコピー";
+
+"Copy to Remote Server" = "リモートサーバへのコピー";
+
+"Open With Default Action" = "デフォルト動作で開く";
+
+"Maximum image size" = "画像サイズを最大化";
+
+"Thumbnails for smaller images" = "小さい画像のサムネール";
+
+"Slide show interval (seconds)" = "スライド表示の間隔 (秒)";
+
+"Authentication retry attempts" = "認証再送回数";
+
+"Erase local storage on enter background" = "背景に行くときに、ローカルストレージを消去";
+
+"Force logout on enter background" = "バックグラウンド時に強制ログアウト";
+
+"Enable session authentication" = "セッション認証を有効にする";
+
+"Enable Wake-on-LAN" = "Wake-On-LANを有効にします";
+
+"Wake-on-LAN (WOL)" = "Wake-on-LAN (WOL)";
+
+"Wake-on-LAN" = "Wake-on-LAN";
+
+"All Albums" = "すべてのアルバム";
+
+"Enable background sync for Photos" = "写真のバックグラウンド同期を有効にする";
+
+"Allow background sync over cellular network" = "モバイル通信でもバックグラウンド同期を有効";
+
+"Background sync frequency" = "バックグラウンド同期周波数";
+
+"Text file" = "テキストファイル";
+
+"Use Back button for previous folder" = "前のフォルダの[戻る]ボタンを使用します";
+
+"Enable Data Protection" = "データ保護を有効";
+
+"Authentication retry count" = "認証リトライ回数";
+
+"Photo Albums" = "フォトアルバム";
+
+"New Folder or File?" = "新規フォルダー かファイル？";
+
+"Rich Text file" = "リッチテキストファイル";
+
+"Allow Touch ID to unlock" = "タッチIDがロックを解除することを許可します";
+
+"Use built-in iOS PDF viewer" = "iOS組み込みPDFビュアーを利用";
+
+"Hide In-App Purchase" = "隠す購入";
+
+"Are you sure you want to clear this sketch?" = "あなたは、このスケッチをクリアしてもよろしいですか？";
+
+"Show taps on screen" = "画面のタッチ·ポイントを表示";
+
+"Directory tree fallback" = "ディレクトリツリーのフォールバック";
+
+"Sort method" = "ファイルの並べ替え";
+
+"Include authentication details in AirPlay or Chromecast URL" = "AirPlayやChromecast URL の認証詳細を含む";
+
+"Display images as slide show" = "画像をスライド表示";
+
+"Apply filters to images on upload" = "アップロード時に画像にフィルターを適用";
+
+"New Server" = "サーバー追加";
+
+"Sketch" = "スケッチ";
+
+"Take camera image" = "Take camera image";
+
+"Select a local file to upload" = "アップロードするローカルファイルを選択";
+
+"Default sort order" = "デフォルトのソート順";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+
+"This option will delete all your files in the local Download folder when the app goes to background. Are you sure you want to enable this option?" = "アプリがバックグラウンドになったときに、このオプションは、ローカルダウンロードフォルダ内のすべてのファイルを削除します。このオプションを有効にしてもよろしいですか？";
+

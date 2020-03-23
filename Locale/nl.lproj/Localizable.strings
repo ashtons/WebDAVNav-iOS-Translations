@@ -1,0 +1,386 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nWilt u bladeren door de lokale favorieten plaats?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "Een bron kan niet worden aangemaakt op de bestemming URI totdat een of meer tussentijdse collecties worden gemaakt.";
+
+"Access denied!" = "Toegang geweigerd!";
+
+"Actions" = "Acties";
+
+"Are you sure you want to delete this resource?" = "Weet u zeker dat u dit onderdeel wilt verwijderen?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Ben je zeker dat je deze server wilt verwijderen?\nAlle gedownloade bestanden worden gewist.";
+
+"Are you sure you want to download this resource?" = "Ben je zeker dat je dit bestand wilt downloaden?";
+
+"Are you sure you want to overwrite your local copy?" = "Weet u zeker dat u wilt uw lokale kopie overschrijven?";
+
+"Browse Favourites" = "Bladeren Favorieten";
+
+"bytes" = "bytes";
+
+"Cancel" = "Annuleer";
+
+"Confirmation" = "Bevestiging";
+
+"Connection started...." = "Aansluiting begonnen ....";
+
+"Copy" = "Kopie";
+
+"Create" = "Creëren";
+
+"Delete" = "Verwijder";
+
+"Download" = "Download";
+
+"Downloading file. Please Wait\n\n\n" = "Downloaden van het bestand. Even geduld aub\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "Email";
+
+"Enter a name for the uploaded resource:" = "Voer een naam voor het geüploade bestand:";
+
+"Enter new folder name:" = "Voer een nieuwe naam van de map:";
+
+"Enter new name for the duplicate resource:" = "Voer een nieuwe naam voor de dubbele resource:";
+
+"Enter new name:" = "Voer een nieuwe naam:";
+
+"Error" = "Fout";
+
+"Finished!" = "Klaar!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Edit-server";
+
+"No" = "No";
+
+"No authentication" = "Geen verificatie";
+
+"Not enough storage to create folder!" = "Niet genoeg opslagruimte om map te maken!";
+
+"OK" = "OK";
+
+"Open with..." = "Openen met...";
+
+"Overwrite" = "Overschrijven";
+
+"PB" = "PB";
+
+"Play" = "Spelen";
+
+"Rename" = "Hernoemen";
+
+"Response received, downloading file..." = "Reactie ontvangen, te downloaden bestand...";
+
+"Sorry, no installed applications seem to support this file type" = "Helaas geen geïnstalleerde applicaties lijken dit bestandstype ondersteunen";
+
+"Source moved to new location" = "Bron verhuisd naar nieuwe locatie";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "De bestemming bron niet over voldoende opbergruimte.";
+
+"The destination resource is locked." = "De bestemming bron is vergrendeld.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "De bestemming URI is gelegen op een andere server, die weigert te aanvaarden de bron.";
+
+"The folder already exists!" = "De map bestaat al!";
+
+"The folder cannot be created until the parent folders are created!" = "De folder kan niet worden gemaakt totdat de bovenliggende mappen worden aangemaakt!";
+
+"The resource is locked!" = "De bron is gesloten!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "De bron werd met succes verplaatst naar een reeds bestaande bestemming URI.";
+
+"The resource was successfully copied." = "De bron is succesvol gekopieerd.";
+
+"The server does not allow collections to be created at the specified location!" = "De server staat geen mappen worden gecreëerd op de opgegeven locatie!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "De bron bron werd met succes gekopieerd naar een reeds bestaande bestemming bron.";
+
+"The source URI and the destination URI are the same." = "De bron en de bestemming URI URI zijn hetzelfde.";
+
+"Unable to open" = "Niet in staat om te openen";
+
+"Upload" = "Uploaden";
+
+"Username: %@" = "Gebruikersnaam: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Yes";
+
+"You need to enter a URL for the WebDAV server!" = "Je moet een adres voor de WebDAV-server in te voeren!";
+
+"Your file has failed to be copied into the local store!" = "Uw bestand is mislukt worden gekopieerd naar de lokale opslag!";
+
+"Your file has successfully been copied into the local store!" = "Uw bestand is succesvol gekopieerd naar de lokale opslag!";
+
+"Save" = "Bewaar";
+
+"Name" = "Naam";
+
+"Server URL" = "Adres";
+
+"Username" = "Gebruikersnaam";
+
+"Password" = "Wachtwoord";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Snelkoppeling";
+
+"Email shortcut" = "Stuur snelkoppeling";
+
+"Unable to use added server!" = "De onmogelijkheid van gebruik toegevoegde server!";
+
+"Unable to decode the shortcut!" = "Niet in staat om de snelkoppeling te decoderen!";
+
+"Your WebDAV Server address is: %@" = "Uw WebDAV-server adres is: %@";
+
+"You need a wifi connection to run the server." = "Je moet een wifi-verbinding met de server draaien.";
+
+"WebDAV Server Settings" = "Instellingen";
+
+"Settings" = "Instellingen";
+
+"Server off" = "Server off";
+
+"Server address: %@" = "Adres: %@";
+
+"Error starting WebDAV Server: %@" = "Fout bij het starten server: %@";
+
+"Enter a name for the uploaded video:" = "Voer een naam voor de video:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Server port";
+
+"Server name" = "Naam";
+
+"Security" = "Beveiliging";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Als u verder gaat zal wissen van de vorige opname?";
+
+"Enter a name for the audio resource:" = "Voer een naam voor de audio-bron:";
+
+"Edit file" = "Edit file";
+
+"Copy to local store" = "Kopiëren naar lokale opslag";
+
+"Audio Recorder" = "Audio recorder";
+
+"You need a microphone in order to record audio." = "Je hebt een microfoon om geluid op te nemen!";
+
+"Text Editor" = "Teksteditor";
+
+"You have unsaved changes, do you want to save them?" = "Je hebt opgeslagen wijzigingen, wilt u om hen te redden?";
+
+"Close" = "Sluit";
+
+"Enter your new PIN" = "Voer uw nieuwe PIN-code";
+
+"Enter your PIN" = "Voer uw PIN-code";
+
+"Set PIN" = "Stel PIN-code";
+
+"Confirm PIN" = "Bevestig PIN";
+
+"Protected" = "Beschermd";
+
+"PIN did not match. Try again." = "PIN-code niet overeen. Probeer het opnieuw.";
+
+"PIN incorrect. Try again." = "PIN-code onjuist. Probeer het opnieuw.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "WAARSCHUWING! Er is geen manier om een verloren PIN, het gebruik met de nodige voorzichtigheid te herstellen.";
+
+"Please enter the authentication details:" = "Vul de authenticatie gegevens:";
+
+"View" = "Bekijk";
+
+"General" = "Algemene";
+
+"Single tap action" = "Een druk op actie";
+
+"Default action" = "Standaard actie";
+
+"Unlink" = "Loskoppelen";
+
+"Are you sure you want to unlink this resource?" = "Ben je zeker dat je wilt om dit onderdeel te verbreken?";
+
+"Server Discover" = "Ontdek Server";
+
+"Slide show" = "Fotogalerij";
+
+"Show hidden files" = "Verborgen bestanden";
+
+"Shared download folder" = "Gezamenlijke opslag";
+
+"Move" = "Verplaatsen";
+
+"Default audio format" = "Default audio format";
+
+"Compress" = "Comprimeren";
+
+"Extract" = "Expand";
+
+"Unable to compress file, the zip file already exists at destination!" = "Niet in staat om bestand te comprimeren, het zip-bestand bestaat al op de bestemming!";
+
+"Folder index mode" = "Folder index";
+
+"File index mode" = "File index";
+
+"Tap here to select the current folder" = "Tik hier om de huidige map te selecteren";
+
+"Tap to view multiple file options" = "Tik om meerdere bestandssystemen opties te bekijken";
+
+"Delete marked files" = "Verwijder";
+
+"Email marked files" = "Email";
+
+"Unselect all" = "Deselecteren";
+
+"This folder" = "Deze map";
+
+"Stop" = "Stoppen";
+
+"Please enter the passphrase for the certificate:" = "Vul het wachtwoord voor het certificaat:";
+
+"Certificate missing" = "Certificaat ontbreekt";
+
+"Import photos" = "Foto's importeren";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Druk op \"+\" om een ​​nieuwe verbinding met de server toe te voegen";
+
+"Trust all SSL certificates" = "Trust alle SSL-certificaten";
+
+"Import media files" = "Import media files";
+
+"Properties" = "Properties";
+
+"Information" = "Information";
+
+"Are you sure you want to download this folder?" = "Weet je zeker dat je deze map downloaden?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "No images were found to display!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Weet u zeker dat u deze bestanden te downloaden?";
+
+"Are you sure you want to delete the marked files?" = "Weet je zeker dat je deze bestanden wilt verwijderen?";
+
+"Deleting files. Please Wait\n\n\n" = "Deleting files. Please Wait\n\n\n";
+
+"Unable to find images to import!" = "Kan geen foto's te importeren te vinden!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Enter a prefix for these items:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Voer een wachtwoord voor de PDF:";
+
+"Copy to clipboard" = "Kopieer het bestand naar het klembord";
+
+"File data copied to clipboard" = "Bestand is gekopieerd naar het klembord";
+
+"Sort by filename" = "Sorteer op bestandsnaam";
+
+"Sort by date" = "Sorteren op datum";
+
+"Sort by filesize" = "Sorteer op de bestandsgrootte";
+
+"Accept connections" = "Accepteer verbindingen";
+
+"Send to device" = "Stuur naar een apparaat";
+
+"Use Photos app filename (if available) during upload" = "Gebruik Photos.app bestandsnaam (indien beschikbaar) tijdens het uploaden";
+
+"%d media files imported!" = "%d bestanden importeren!";
+
+"Allow delete" = "Laat verwijdering";
+
+"An unknown error occurred!" = "Er is een onbekende fout opgetreden!";
+
+"Are you sure you want to delete this sync?" = "Weet je zeker dat je dit bericht wilt verwijderen?";
+
+"Are you sure you want to import these files into the Photos app?" = "Weet je zeker dat je deze bestanden wilt importeren in de Photos.app?";
+
+"Are you sure you want to reset the sync cache?" = "Weet je zeker dat je de cache te resetten?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Weet je zeker dat je wilt synchroniseren, kunnen veranderingen vervangen en verwijderen van uw bestanden?";
+
+"Browse local storage" = "Bladeren door lokale opslag";
+
+"Changed files" = "Gewijzigde bestanden";
+
+"Changed local files" = "Gewijzigd lokale bestanden";
+
+"Changed server files" = "Gewijzigd server bestanden";
+
+"Date format" = "Datum formaat";
+
+"Deleted files" = "Verwijderde bestanden";
+
+"Deleted local files" = "Verwijderde lokale bestanden";
+
+"Deleted server files" = "Verwijderde server bestanden";
+
+"New files" = "Nieuwe bestanden";
+
+"New local files" = "Nieuwe lokale bestanden";
+
+"New server files" = "Nieuwe server bestanden";
+
+"No changes found to sync!" = "Geen wijzigingen gevonden om te synchroniseren!";
+
+"Playlist" = "Playlist";
+
+"Reset cache" = "Cache wissen";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"New Server" = "Nieuwe server";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

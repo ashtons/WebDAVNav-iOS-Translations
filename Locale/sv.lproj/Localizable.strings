@@ -1,0 +1,630 @@
+
+
+"%@\nDo you want to browse the local store instead?" = "%@\nVill du bläddra i lokala butiken istället?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "En resurs kan inte skapas på resmålet URI tills ett eller flera förmedlande kollektioner skapas.";
+
+"Access denied!" = "Åtkomst nekad!";
+
+"Actions" = "Aktiviteter";
+
+"Are you sure you want to delete this resource?" = "Är du säker på att du vill ta bort denna resurs?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Är du säker på att du vill ta bort denna server?\nAlla hämtade filer kommer att raderas.";
+
+"Are you sure you want to download this resource?" = "Är du säker på att du vill hämta denna resurs?";
+
+"Are you sure you want to overwrite your local copy?" = "Är du säker på att du vill skriva över din lokala kopia?";
+
+"Browse Favourites" = "Lokal lagring";
+
+"bytes" = "bytes";
+
+"Cancel" = "Avbryt";
+
+"Confirmation" = "Bekräftelse";
+
+"Connection started...." = "Anslutning startar....";
+
+"Copy" = "Kopiera";
+
+"Create" = "Skapa";
+
+"Delete" = "Radera";
+
+"Download" = "Hämta";
+
+"Downloading file. Please Wait\n\n\n" = "Hämtar fil. Vänligen vänta\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "E-post";
+
+"Enter a name for the uploaded resource:" = "Ange ett namn för den uppladdade filen:";
+
+"Enter new folder name:" = "Ange nytt mappnamn:";
+
+"Enter new name for the duplicate resource:" = "Ange nytt namn för den duplicerade filen:";
+
+"Enter new name:" = "Ange nytt namn:";
+
+"Error" = "Fel";
+
+"Finished!" = "Klar!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Redigera server";
+
+"No" = "No";
+
+"No authentication" = "Ingen autentisering";
+
+"Not enough storage to create folder!" = "Inte tillräckligt med lagringsutrymme för att skapa mappen!";
+
+"OK" = "OK";
+
+"Open with..." = "Öppna med...";
+
+"Overwrite" = "Skriv över";
+
+"PB" = "PB";
+
+"Play" = "Spela";
+
+"Rename" = "Byt namn";
+
+"Response received, downloading file..." = "Svar emot, hämta fil...";
+
+"Sorry, no installed applications seem to support this file type" = "Tyvärr, inga installerade program har stöd för den här filtypen";
+
+"Source moved to new location" = "Källa är flyttad till ny plats";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "Destinationen resurs har inte tillräckligt med lagringsutrymme.";
+
+"The destination resource is locked." = "Destinationen resurs är låst.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "Destinationen URI finns på en annan server, som vägrar att acceptera resursen.";
+
+"The folder already exists!" = "Mappen finns redan!";
+
+"The folder cannot be created until the parent folders are created!" = "Mappen kan inte skapas förrän den överordnade mappar skapas!";
+
+"The resource is locked!" = "Resursen är låst!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "Resursen flyttades till en redan existerande destination URI.";
+
+"The resource was successfully copied." = "Resursen framgångsrikt kopierad.";
+
+"The server does not allow collections to be created at the specified location!" = "Servern tillåter inte att mappar skapas på den angivna platsen!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "Källan filen har kopierats till en redan existerande destination resurs.";
+
+"The source URI and the destination URI are the same." = "The source URI and the destination URI are the same.";
+
+"Unable to open" = "Det går inte att öppna";
+
+"Upload" = "Ladda upp";
+
+"Username: %@" = "Användarnamn: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Ja";
+
+"You need to enter a URL for the WebDAV server!" = "Du måste ange en webbadress för WebDAV-servern!";
+
+"Your file has failed to be copied into the local store!" = "Filen har inte kopieras till den lokala butiken!";
+
+"Your file has successfully been copied into the local store!" = "Filen har inte kopierats till den lokala lagringsytan!";
+
+"Save" = "Spara";
+
+"Name" = "Namn";
+
+"Server URL" = "Server URL";
+
+"Username" = "Användarnamn";
+
+"Password" = "Lösenord";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Genväg";
+
+"Email shortcut" = "E-genväg";
+
+"Unable to use added server!" = "Det går inte att använda till server!";
+
+"Unable to decode the shortcut!" = "Det går inte att avkoda genvägen!";
+
+"Your WebDAV Server address is: %@" = "Din WebDAV-server adress är: %@";
+
+"You need a wifi connection to run the server." = "Du behöver en WiFi-anslutning för att köra servern.";
+
+"WebDAV Server Settings" = "WebDAV Serverinställningar";
+
+"Settings" = "Inställningar";
+
+"Server off" = "Server off";
+
+"Server address: %@" = "Serveradress: %@";
+
+"Error starting WebDAV Server: %@" = "Fel vid start av WebDAV-server: %@";
+
+"Enter a name for the uploaded video:" = "Ange ett namn för det uppladdade videoklippet:";
+
+"WebDAV Server" = "WebDAV Server";
+
+"Server port" = "Serverport";
+
+"Server name" = "Servernamn";
+
+"Security" = "Säkerhet";
+
+"PIN" = "PIN";
+
+"PIN lock" = "PIN lock";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Om du fortsätter kommer du att radera den tidigare inspelningen?";
+
+"Enter a name for the audio resource:" = "Ange ett namn för ljudet resurs:";
+
+"Edit file" = "Redigera filen";
+
+"Copy to local store" = "Kopiera till lokal lagring";
+
+"Audio Recorder" = "Ljudinspelare";
+
+"You need a microphone in order to record audio." = "Du behöver en mikrofon för att spela in ljud.";
+
+"Text Editor" = "Textredigerare";
+
+"You have unsaved changes, do you want to save them?" = "Du har osparade ändringar, vill du att rädda dem?";
+
+"Close" = "Stäng";
+
+"Enter your new PIN" = "Ange din nya PIN-koden";
+
+"Enter your PIN" = "Ange PIN-koden";
+
+"Set PIN" = "Ställ in PIN";
+
+"Confirm PIN" = "Bekräfta PIN";
+
+"Protected" = "Skyddad";
+
+"PIN did not match. Try again." = "PIN matchade inte. Försök igen.";
+
+"PIN incorrect. Try again." = "PIN felaktig. Försök igen.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "VARNING! Det finns inget sätt att återställa en förlorad PIN-kod, använd med försiktighet.";
+
+"Please enter the authentication details:" = "Ange autentisering information:";
+
+"View" = "Se";
+
+"General" = "Allmän";
+
+"Single tap action" = "Ett tryck åtgärder";
+
+"Default action" = "Standardåtgärd";
+
+"Unlink" = "Koppla";
+
+"Are you sure you want to unlink this resource?" = "Är du säker på att du vill koppla denna resurs?";
+
+"Server Discover" = "Upptäck Server";
+
+"Slide show" = "Fotogalleri";
+
+"Show hidden files" = "Dolda filer";
+
+"Shared download folder" = "Gemensam lagring";
+
+"Move" = "Flytta";
+
+"Default audio format" = "Standard ljudformat";
+
+"Compress" = "Komprimera";
+
+"Extract" = "Utvidga";
+
+"Unable to compress file, the zip file already exists at destination!" = "Det går inte att komprimera filen, finns i zip-filen redan på resmål!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Tryck här för att välja den aktuella mappen";
+
+"Tap to view multiple file options" = "Tryck här för att visa flera alternativ fil";
+
+"Delete marked files" = "Radera";
+
+"Email marked files" = "E-post";
+
+"Unselect all" = "Avmarkera";
+
+"This folder" = "Denna mapp";
+
+"Stop" = "Stopp";
+
+"Please enter the passphrase for the certificate:" = "Ange lösenfrasen för certifikatet:";
+
+"Certificate missing" = "Certifikat saknas";
+
+"Import photos" = "Importera foton";
+
+"Select all" = "Select all";
+
+"Press \"+\" to add a new server connection" = "Tryck på \"+\" för att lägga till en ny server-anslutning";
+
+"Trust all SSL certificates" = "Lita på alla SSL-certifikat";
+
+"Import media files" = "Importera mediefiler";
+
+"Properties" = "Properties";
+
+"Information" = "Information";
+
+"Are you sure you want to download this folder?" = "Är du säker på att du vill ladda ner denna mapp?";
+
+"Unable to print this item!" = "Unable to print this item!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Hittar inga bilder att visa!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Är du säker på att du vill ladda ner dessa filer?";
+
+"Are you sure you want to delete the marked files?" = "Är du säker på att du vill ta bort dessa filer?";
+
+"Deleting files. Please Wait\n\n\n" = "Ta bort filer. Vänta\n\n\n";
+
+"Unable to find images to import!" = "Det går inte att hitta bilder att importera!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Enter a prefix for these items:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Ange ett lösenord för PDF:";
+
+"Copy to clipboard" = "Kopiera filen till Urklipp";
+
+"File data copied to clipboard" = "Filen har kopierats till Urklipp";
+
+"Sort by filename" = "Sortera efter Filnamn";
+
+"Sort by date" = "Sortera efter datum";
+
+"Sort by filesize" = "Sortera efter filstorlek";
+
+"Accept connections" = "emot anslutningar";
+
+"Send to device" = "Skicka till en enhet";
+
+"Use Photos app filename (if available) during upload" = "Använd Photos.app filnamn (om tillgängligt) under uppladdning";
+
+"%@ is busy." = "%@ is busy.";
+
+"%@ refused to receive '%@'. Do you want to retry?" = "%1$@ refused to receive '%2$@'. Do you want to retry?";
+
+"%@ wants to send the file '%@' to you. Do you accept?" = "%1$@ wants to send the file '%2$@' to you. Do you accept?";
+
+"%d media files imported!" = "%d media files imported!";
+
+"%d of %d" = "%1$d of %2$d";
+
+"Add directory" = "Add directory";
+
+"Add Server" = "Add Server";
+
+"Add Sync" = "Add Sync";
+
+"Allow delete" = "Tillåt radering";
+
+"An unknown error occurred!" = "Ett okänt fel uppstod!";
+
+"Are you sure you want to delete this sync?" = "Är du säker på att du vill ta bort denna post?";
+
+"Are you sure you want to download your linked files again?" = "Are you sure you want to download your linked files again?";
+
+"Are you sure you want to import these files into the Photos app?" = "Are you sure you want to import these files into the Photos app?";
+
+"Are you sure you want to overwrite this file?" = "Are you sure you want to overwrite this file?";
+
+"Are you sure you want to reset the sync cache?" = "Är du säker på att du vill återställa cache?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Är du säker på att du vill synka, ändringar kan skriva över och radera dina filer?";
+
+"Browse local storage" = "Bläddra lokal lagring";
+
+"Cancel changes" = "Cancel changes";
+
+"Cancel sync settings" = "Cancel sync settings";
+
+"Change file encoding" = "Change file encoding";
+
+"Changed files" = "ändrade filer";
+
+"Changed local files" = "Förändrade lokala filer";
+
+"Changed server files" = "Modifierade serverfiler";
+
+"Configuration" = "Configuration";
+
+"Conflicts" = "Conflicts";
+
+"Contribute (upload only)" = "Upp (endast uppladdning)";
+
+"Contribute" = "Contribute";
+
+"Create new folder" = "Create new folder";
+
+"Create new text file" = "Create new text file";
+
+"Creating folders. Please Wait\n\n\n" = "Creating folders. Please Wait\n\n\n";
+
+"Date format" = "Datumformat";
+
+"Date" = "Date";
+
+"Delete current image" = "Delete current image";
+
+"Deleted files" = "Raderade filer";
+
+"Deleted local files" = "Raderade lokala filer";
+
+"Deleted server files" = "Raderade server filer";
+
+"Deleting file. Please Wait\n\n\n" = "Deleting file. Please Wait\n\n\n";
+
+"Description" = "Description";
+
+"Do you want to upload the file now?" = "Do you want to upload the file now?";
+
+"Done" = "Done";
+
+"Enable sync option for connections" = "Enable sync option for connections";
+
+"Encoding" = "Encoding";
+
+"Enter the URL for your\nWebDAV NavX configuration file:" = "Enter the URL for your\nWebDAV NavX configuration file:";
+
+"Example Org" = "Example Org";
+
+"File will be ignored" = "File will be ignored";
+
+"Folders" = "Mappar";
+
+"Full (upload and download)" = "Full (uppladdning och nedladdning)";
+
+"http://example.com" = "http://example.com";
+
+"Image information" = "Image information";
+
+"Images" = "Images";
+
+"Import" = "Import";
+
+"Importing files. Please Wait\n\n\n" = "Importing files. Please Wait\n\n\n";
+
+"Include videos in slide show" = "Include videos in slide show";
+
+"Last sync" = "Senaste synk";
+
+"Local File Sharing" = "Local File Sharing";
+
+"Local folder" = "Local folder";
+
+"Local" = "Lokal";
+
+"New files" = "Nya filer";
+
+"New Folder" = "New Folder";
+
+"New local files" = "Nya lokala filer";
+
+"New server files" = "Nya server-filer";
+
+"No changes found to sync!" = "Inga ändringar hittades synkronisera mera";
+
+"No devices found!" = "No devices found!";
+
+"No files found!" = "No files found!";
+
+"Options" = "Alternativ";
+
+"Passphrase" = "Passphrase";
+
+"Peer is busy!" = "Peer is busy!";
+
+"Permission denied!" = "Permission denied!";
+
+"Playlist" = "Playlist";
+
+"Remote folder" = "Remote folder";
+
+"Remote" = "Fjärr";
+
+"Reset" = "Reset";
+
+"Response received..." = "Response received...";
+
+"Save current changes" = "Save current changes";
+
+"Save sync settings" = "Save sync settings";
+
+"Select local folder" = "Select local folder";
+
+"Select local store" = "Select local store";
+
+"Select remote folder" = "Select remote folder";
+
+"Sending...." = "Sending....";
+
+"Slideshow of current folder images" = "Slideshow of current folder images";
+
+"Sort files" = "Sort files";
+
+"Status" = "Status";
+
+"Subscribe (download only)" = "Ned (endast nedladdning)";
+
+"Subscribe" = "Subscribe";
+
+"Success" = "Success";
+
+"Sync Details" = "Sync Details";
+
+"Sync direction" = "Synkroniseringsriktning";
+
+"Sync Now" = "Sync Now";
+
+"Sync Preview" = "Sync Preview";
+
+"Sync settings" = "Sync settings";
+
+"Sync type" = "Sync type";
+
+"Sync" = "Sync";
+
+"Synchronise" = "Synchronise";
+
+"The destination file already exists!" = "The destination file already exists!";
+
+"The file already exists! Are you sure you want to overwrite this file?" = "The file already exists! Are you sure you want to overwrite this file?";
+
+"The local copy will be used" = "The local copy will be used";
+
+"The remote copy will be used" = "The remote copy will be used";
+
+"The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?" = "The Sync feature can potentially delete and change your files. Ensure you have suitable backups of your files. Are you sure you want to enable Sync?";
+
+"Timer based slideshow" = "Timer based slideshow";
+
+"Transfer cancelled by %@." = "Transfer cancelled by %@.";
+
+"Transfer refused" = "Transfer refused";
+
+"Transfer was cancelled!" = "Transfer was cancelled!";
+
+"Transferring file. Please Wait\n\n\n" = "Transferring file. Please Wait\n\n\n";
+
+"Unable to connect to %@." = "Unable to connect to %@.";
+
+"Unable to copy file, the file already exists at destination!" = "Unable to copy file, the file already exists at destination!";
+
+"Unexpected HTML returned from server, please check your URL!" = "Unexpected HTML returned from server, please check your URL!";
+
+"Unix Line Endings" = "Unix Line Endings";
+
+"Unknown error occurred!" = "Unknown error occurred!";
+
+"Upload camera image" = "Upload camera image";
+
+"You haven't selected the changes you want to sync. Please select the changes before attempting to sync" = "Du har inte valt de ändringar du vill synkronisera. Välj ändringarna innan du försöker synkronisera";
+
+"Your server doesn't appear to support the features required to use the sync feature." = "Din server verkar inte stödja de funktioner som krävs för att använda sync-funktionen. Prova att möjliggöra enda mapp alternativet.";
+
+"Your URL needs to start with http:// or https://" = "Your URL needs to start with http:// or https://";
+
+"Single folder depth" = "Endast en mappnivå";
+
+"Server Address" = "Server Address";
+
+"Network timeout" = "Network timeout";
+
+"Media playback in silent mode" = "Media playback in silent mode";
+
+"Open With" = "Open With";
+
+"Prompt" = "Prompt";
+
+"Copy to Local Storage" = "Copy to Local Storage";
+
+"Copy to Remote Server" = "Copy to Remote Server";
+
+"Open With Default Action" = "Open With Default Action";
+
+"Maximum image size" = "Maximum image size";
+
+"Thumbnails for smaller images" = "Thumbnails for smaller images";
+
+"Slide show interval (seconds)" = "Slide show interval (seconds)";
+
+"Screencast Server Settings" = "Screencast Server Settings";
+
+"Authentication retry attempts" = "Authentication retry attempts";
+
+"Erase local storage on enter background" = "Erase local storage on enter background";
+
+"Force logout on enter background" = "Force logout on enter background";
+
+"Enable session authentication" = "Enable session authentication";
+
+"Enable Wake-on-LAN" = "Enable Wake-on-LAN";
+
+"Screencast Server" = "Screencast Server";
+
+"Wake-on-LAN" = "Wake-on-LAN";
+
+"Find MAC address" = "Find MAC address";
+
+"All Albums" = "All Albums";
+
+"No password" = "No password";
+
+"%d new files/folders" = "%1$d new files/folders";
+
+"%d changed files/folders" = "%1$d changed files/folders";
+
+"%d deleted files/folders" = "%1$d deleted files/folders";
+
+"%d conflicted files/folders" = "%1$d conflicted files/folders";
+
+"Do you want to add password encryption?" = "Do you want to add password encryption?";
+
+"Enter a password for the ZIP:" = "Enter a password for the ZIP:";
+
+"Update" = "Update";
+
+"What type would you like to capture?" = "What type would you like to capture?";
+
+"Photo" = "Photo";
+
+"Browse Local Folders" = "Bläddra i lokala mappar";
+
+"Your device is not currently configured to send emails!" = "Enheten är för närvarande inte konfigurerad för att skicka e-post!";
+
+"Unable to extract file!" = "Det går inte att extrahera filen!";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+

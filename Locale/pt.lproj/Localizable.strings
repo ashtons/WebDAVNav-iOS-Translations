@@ -1,0 +1,373 @@
+
+"%@\nDo you want to browse the local store instead?" = "%@\nVocê deseja ver a loja local em vez disso?";
+
+"A resource cannot be created at the destination URI until one or more intermediate collections are created." = "Um recurso não pode ser criado no destino URI até que um ou mais conjuntos intermediários são criados.";
+
+"Access denied!" = "Acesso negado!";
+
+"Actions" = "Ações";
+
+"Are you sure you want to delete this resource?" = "Tem certeza de que deseja excluir este recurso?";
+
+"Are you sure you want to delete this server?\nAll downloaded files will be erased." = "Tem certeza que quer deletar este servidor?\nTodos os arquivos baixados serão apagados.";
+
+"Are you sure you want to download this resource?" = "Tem certeza de que deseja fazer o download desse recurso?";
+
+"Are you sure you want to overwrite your local copy?" = "Tem certeza de que deseja substituir a cópia local?";
+
+"Browse Favourites" = "Procurar pastas locais";
+
+"bytes" = "bytes";
+
+"Cancel" = "Cancelar";
+
+"Confirmation" = "Confirmação";
+
+"Connection started...." = "Conexão começou....";
+
+"Copy" = "Cópia";
+
+"Create" = "Criar";
+
+"Delete" = "Apagar";
+
+"Download" = "Download";
+
+"Downloading file. Please Wait\n\n\n" = "Download do arquivo. Aguarde\n\n\n";
+
+"EB" = "EB";
+
+"Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction." = "Either the Overwrite header is \"F\" and the state of the destination resource is not null, or the method was used in a Depth: 0 transaction.";
+
+"Email" = "E-mail";
+
+"Enter a name for the uploaded resource:" = "Digite um nome para o recurso de upload:";
+
+"Enter new folder name:" = "Digite o nome da nova pasta:";
+
+"Enter new name for the duplicate resource:" = "Digite um novo nome para a duplicação de recursos:";
+
+"Enter new name:" = "Digite um novo nome:";
+
+"Error" = "Erro";
+
+"Finished!" = "Terminado!";
+
+"GB" = "GB";
+
+"KB" = "KB";
+
+"MB" = "MB";
+
+"Edit Server" = "Editar Servidor";
+
+"No" = "Não";
+
+"No authentication" = "Nenhuma autenticação";
+
+"Not enough storage to create folder!" = "Não de armazenamento suficiente para criar a pasta!";
+
+"OK" = "OK";
+
+"Open with..." = "Abrir com...";
+
+"Overwrite" = "Sobrescrever";
+
+"PB" = "PB";
+
+"Play" = "Reproduzir mídia";
+
+"Rename" = "Renomear";
+
+"Response received, downloading file..." = "Resposta recebida, baixar o arquivo...";
+
+"Sorry, no installed applications seem to support this file type" = "Desculpe, não houve aplicativos instalados parecem apoiar esse tipo de arquivo";
+
+"Source moved to new location" = "Fonte mudou-se para novo local";
+
+"TB" = "TB";
+
+"The destination resource does not have sufficient storage space." = "O recurso de destino não tem espaço de armazenamento suficiente.";
+
+"The destination resource is locked." = "O destino dos recursos está bloqueada.";
+
+"The destination URI is located on a different server, which refuses to accept the resource." = "O destino está localizado em um servidor diferente, que se recusa a aceitar o recurso.";
+
+"The folder already exists!" = "A pasta já existe!";
+
+"The folder cannot be created until the parent folders are created!" = "A pasta não pode ser criado até as pastas pai são criados!";
+
+"The resource is locked!" = "O recurso é bloqueado!";
+
+"The resource was moved successfully to a pre-existing destination URI." = "O recurso foi movido com êxito para um destino pré-existentes.";
+
+"The resource was successfully copied." = "O recurso foi copiado com sucesso.";
+
+"The server does not allow collections to be created at the specified location!" = "O servidor não permite que as pastas a serem criadas no local especificado!";
+
+"The source resource was successfully copied to a pre-existing destination resource." = "A fonte de recursos foi copiado com êxito para um destino pré-existentes.";
+
+"The source URI and the destination URI are the same." = "A origem eo destino são os mesmos.";
+
+"Unable to open" = "Não é possível abrir";
+
+"Upload" = "Upload";
+
+"Username: %@" = "Nome de Usuário: %@";
+
+"WebDAV Navigator" = "WebDAV Navigator";
+
+"Yes" = "Sim";
+
+"You need to enter a URL for the WebDAV server!" = "Você precisa digitar uma URL para o servidor WebDAV!";
+
+"Your file has failed to be copied into the local store!" = "Seu arquivo não conseguiu ser copiado para a loja!";
+
+"Your file has successfully been copied into the local store!" = "Seu arquivo foi copiado com sucesso para o armazenamento local!";
+
+"Save" = "Guardar";
+
+"Name" = "Nome";
+
+"Server URL" = "URL do servidor";
+
+"Username" = "Nome de Usuário";
+
+"Password" = "Senha";
+
+"WebDAV Nav Shortcut" = "WebDAV Nav Atalho";
+
+"Email shortcut" = "Email atalho";
+
+"Unable to use added server!" = "Não é possível usar adicionou servidor!";
+
+"Unable to decode the shortcut!" = "Não é possível decodificar o atalho!";
+
+"Your WebDAV Server address is: %@" = "O endereço do servidor WebDAV é: %@";
+
+"You need a wifi connection to run the server." = "Você precisa de uma conexão wi-fi para executar o servidor";
+
+"WebDAV Server Settings" = "Configurações";
+
+"Settings" = "Configurações";
+
+"Server off" = "Server off";
+
+"Server address: %@" = "Endereço: %@";
+
+"Error starting WebDAV Server: %@" = "Erro ao iniciar o servidor WebDAV: %@";
+
+"Enter a name for the uploaded video:" = "Digite um nome para o vídeo enviado:";
+
+"WebDAV Server" = "Servidor WebDAV";
+
+"Server port" = "Porta do servidor";
+
+"Server name" = "Nome do servidor";
+
+"Security" = "Segurança";
+
+"PIN" = "PIN";
+
+"PIN lock" = "Bloquear PIN";
+
+"ON" = "1";
+
+"OFF" = "0";
+
+"If you continue you will erase the previous recording?" = "Se você continuar você terá que apagar a gravação anterior?";
+
+"Enter a name for the audio resource:" = "Digite um nome para o recurso de áudio:";
+
+"Edit file" = "Edite o arquivo";
+
+"Copy to local store" = "Copiar para a loja";
+
+"You need a microphone in order to record audio." = "Você precisa de um microfone para gravar áudio.";
+
+"Text Editor" = "Text Editor";
+
+"You have unsaved changes, do you want to save them?" = "Você tem alterações não salvas, você quer salvá-los?";
+
+"Close" = "Fechar";
+
+"Enter your new PIN" = "Digite o novo PIN";
+
+"Enter your PIN" = "Digite o seu PIN";
+
+"Set PIN" = "Definir PIN";
+
+"Confirm PIN" = "Confirmar PIN";
+
+"Protected" = "Protegidas";
+
+"PIN did not match. Try again." = "PIN não coincidem. Tente novamente.";
+
+"PIN incorrect. Try again." = "PIN incorreto. Tente novamente.";
+
+"WARNING!!  There is no way to recover a lost PIN, use with caution." = "ATENÇÃO! Não há maneira de recuperar uma senha perdida, use com cautela.";
+
+"Please enter the authentication details:" = "Por favor insira os dados de autenticação:";
+
+"View" = "Ver";
+
+"General" = "Geral";
+
+"Single tap action" = "Uma ação de imprensa";
+
+"Default action" = "Ação padrão";
+
+"Unlink" = "Desconectar";
+
+"Are you sure you want to unlink this resource?" = "Você tem certeza que deseja desvincular esse recurso?";
+
+"Server Discover" = "Descubra Server";
+
+"Slide show" = "Galeria de Fotos";
+
+"Show hidden files" = "Arquivos ocultos";
+
+"Shared download folder" = "Armazenagem comum";
+
+"Move" = "Mover";
+
+"Default audio format" = "Padrão de formato de áudio";
+
+"Compress" = "Comprimir";
+
+"Extract" = "Expanda";
+
+"Unable to compress file, the zip file already exists at destination!" = "Não é possível compactar arquivos, o arquivo zip já existe no destino!";
+
+"Folder index mode" = "Folder index mode";
+
+"File index mode" = "File index mode";
+
+"Tap here to select the current folder" = "Toque aqui para selecionar a pasta atual";
+
+"Tap to view multiple file options" = "Toque para visualizar as opções de múltiplos arquivos";
+
+"Delete marked files" = "Excluir";
+
+"Email marked files" = "E-mail";
+
+"Unselect all" = "Desmarque";
+
+"This folder" = "Esta pasta";
+
+"Stop" = "Parar";
+
+"Please enter the passphrase for the certificate:" = "Por favor digite a senha para o certificado:";
+
+"Certificate missing" = "Certificado em falta";
+
+"Import photos" = "Importar fotos";
+
+"Select all" = "Select all";
+
+"Trust all SSL certificates" = "Confiar em todos os certificados SSL";
+
+"Import media files" = "Importar arquivos de mídia";
+
+"Properties" = "Propriedades";
+
+"Information" = "Informações";
+
+"Are you sure you want to download this folder?" = "Tem certeza de que deseja fazer o download desta pasta?";
+
+"Unable to print this item!" = "Não é possível imprimir este artigo!";
+
+"Enable Features" = "Enable Features";
+
+"No images were found to display!" = "Não foram encontradas imagens para exibir!";
+
+"Create playlist" = "Create playlist";
+
+"TV Out" = "TV Out";
+
+"Bookmarks" = "Bookmarks";
+
+"Uploading file. Please Wait\n\n\n" = "Uploading file. Please Wait\n\n\n";
+
+"Browser" = "Browser";
+
+"Are you sure you want to download these files?" = "Tem certeza de que deseja baixar esses arquivos?";
+
+"Are you sure you want to delete the marked files?" = "Tem certeza de que deseja excluir esses arquivos?";
+
+"Deleting files. Please Wait\n\n\n" = "Exclusão de arquivos. Por favor, aguarde\n\n\n";
+
+"Unable to find images to import!" = "Não foi possível encontrar imagens para importar!";
+
+"Current" = "Current";
+
+"Enter a prefix for these items:" = "Enter a prefix for these items:";
+
+"%d Selected" = "%d Selected";
+
+"Enter a password for the PDF:" = "Digite uma senha para o PDF:";
+
+"Copy to clipboard" = "Copie o arquivo para o clipboard";
+
+"File data copied to clipboard" = "Arquivo foi copiado para o clipboard";
+
+"Sort by filename" = "Ordenar por nome";
+
+"Sort by date" = "Classificar por data";
+
+"Sort by filesize" = "Ordenar por o tamanho do arquivo";
+
+"Accept connections" = "Aceitar conexões";
+
+"Send to device" = "Enviar a um dispositivo";
+
+"Use Photos app filename (if available) during upload" = "Use filename Photos.app (se disponível) durante o upload";
+
+"Allow delete" = "Permitir a exclusão de arquivos";
+
+"An unknown error occurred!" = "Ocorreu um erro desconhecido!";
+
+"Are you sure you want to delete this sync?" = "Tem certeza que quer apagar esta entrada?";
+
+"Are you sure you want to reset the sync cache?" = "Tem certeza de que deseja redefinir o cache?";
+
+"Are you sure you want to sync, changes could override and delete your files?" = "Tem certeza que deseja sincronizar, as mudanças poderiam substituir e apagar seus arquivos?";
+
+"Browse local storage" = "Procurar armazenamento local";
+
+"Changed files" = "Arquivos alterados";
+
+"Changed local files" = "Alterados arquivos locais";
+
+"Changed server files" = "Modificado arquivos do servidor";
+
+"Date format" = "formato da data";
+
+"Deleted files" = "Os arquivos apagados";
+
+"Deleted local files" = "Excluídos os arquivos locais";
+
+"Deleted server files" = "Excluídos os arquivos do servidor";
+
+"New files" = "Novos arquivos";
+
+"New local files" = "Novos arquivos locais";
+
+"New server files" = "Novos arquivos do servidor";
+
+"No changes found to sync!" = "Não ocorreram alterações encontradas para sincronizar!";
+
+"Playlist" = "Playlist";
+
+"Sync Details" = "Sync Details";
+
+"Sync" = "Sync";
+
+"Upload camera image" = "Upload camera image";
+
+"Take camera image" = "Take camera image";
+
+"Camera" = "Camera";
+
+"Root folder" = "Root folder";
+
